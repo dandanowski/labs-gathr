@@ -1,0 +1,20 @@
+/* Primative */
+:root {
+  --prim-space-6xl: 160px;
+  --prim-space-5xl: 120px;
+  --prim-space-4xl: 80px;
+  --prim-space-3xl: 64px;
+  --prim-space-2xl: 40px;
+  --prim-space-xl: 32px;
+  --prim-space-lg: 32px;
+  --prim-space-md: 24px;
+  --prim-space-sm: 16px;
+  --prim-space-xs: 8px;
+  --prim-space-2xs: 4px;
+  --prim-space-3xs: 2px;
+}
+
+/* Semantic */
+:root {
+  --sem-card-md: var(--prim-space-sm);
+}

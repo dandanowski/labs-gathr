@@ -1,0 +1,260 @@
+@import './base.css';
+
+/* Primative */
+:root {
+  /**/
+  --prim-font-family-01: var(--base-font-family-body);
+  --prim-font-family-02: var(--base-font-family-headline);
+  /**/
+  --prim-font-size-5xl: round(calc(var(--prim-font-size-4xl) * var(--base-font-scale)), 1px);
+  --prim-font-size-4xl: round(calc(var(--prim-font-size-3xl) * var(--base-font-scale)), 1px);
+  --prim-font-size-3xl: round(calc(var(--prim-font-size-2xl) * var(--base-font-scale)), 1px);
+  --prim-font-size-2xl: round(calc(var(--prim-font-size-xl) * var(--base-font-scale)), 1px);
+  --prim-font-size-xl: round(calc(var(--prim-font-size-lg) * var(--base-font-scale)), 1px);
+  --prim-font-size-lg: round(calc(var(--prim-font-size-md) * var(--base-font-scale)), 1px);
+  --prim-font-size-md: round(var(--base-font-size), 1px);
+  --prim-font-size-sm: round(calc(var(--prim-font-size-md) / var(--base-font-scale)), 1px);
+  --prim-font-size-xs: round(calc(var(--prim-font-size-sm) / var(--base-font-scale)), 1px);
+  --prim-font-size-2xs: round(calc(var(--prim-font-size-xs) / var(--base-font-scale)), 1px);
+  /**/
+  --prim-lineHeight-5xl: 1em;
+  --prim-lineHeight-4xl: 1em;
+  --prim-lineHeight-3xl: 1em;
+  --prim-lineHeight-2xl: 1em;
+  --prim-lineHeight-xl: 1.5em;
+  --prim-lineHeight-lg: 1.5em;
+  --prim-lineHeight-md: 1.5em;
+  --prim-lineHeight-sm: 1.5em;
+  --prim-lineHeight-xs: 1.5em;
+  --prim-lineHeight-2xs: 1.5em;
+  /**/
+  --prim-font-weight-4xl: 900;
+  --prim-font-weight-3xl: 800;
+  --prim-font-weight-2xl: 700;
+  --prim-font-weight-xl: 600;
+  --prim-font-weight-lg: 500;
+  --prim-font-weight-md: 400;
+  --prim-font-weight-sm: 300;
+  --prim-font-weight-xs: 200;
+}
+
+/* Semantic */
+:root {
+  /* Font Props */
+  --sem-font-family-body: var(--prim-font-family-01);
+  --sem-font-family-headline: var(--prim-font-family-02);
+  --sem-font-size-body: var(--prim-font-size-md);
+}
+
+/* --------------------------------------------------------------------------- 
+  Typography */
+
+:root {
+  /* Display Large */
+  --sem-typography-display-large-font-family: var(--sem-font-family-headline);
+  --sem-typography-display-large-font-size: var(--prim-font-size-5xl);
+  --sem-typography-display-large-font-weight: var(--prim-font-weight-4xl);
+  --sem-typography-display-large-font-lineHeight: var(--prim-lineHeight-4xl);
+  /* Display Medium */
+  --sem-typography-display-medium-font-family: var(--sem-font-family-headline);
+  --sem-typography-display-medium-font-size: var(--prim-font-size-4xl);
+  --sem-typography-display-medium-font-weight: var(--prim-font-weight-4xl);
+  --sem-typography-display-medium-font-lineHeight: var(--prim-lineHeight-3xl);
+  /* Display Small */
+  --sem-typography-display-small-font-family: var(--sem-font-family-headline);
+  --sem-typography-display-small-font-size: var(--prim-font-size-3xl);
+  --sem-typography-display-small-font-weight: var(--prim-font-weight-4xl);
+  --sem-typography-display-small-font-lineHeight: var(--prim-lineHeight-2xl);
+
+  /* Headline Large */
+  --sem-typography-headline-large-font-family: var(--sem-font-family-headline);
+  --sem-typography-headline-large-font-size: var(--prim-font-size-2xl);
+  --sem-typography-headline-large-font-weight: var(--prim-font-weight-2xl);
+  --sem-typography-headline-large-font-lineHeight: var(--prim-lineHeight-xl);
+  /* Headline Medium */
+  --sem-typography-headline-medium-font-family: var(--sem-font-family-headline);
+  --sem-typography-headline-medium-font-size: var(--prim-font-size-xl);
+  --sem-typography-headline-medium-font-weight: var(--prim-font-weight-2xl);
+  --sem-typography-headline-medium-font-lineHeight: var(--prim-lineHeight-lg);
+  /* Headline Small */
+  --sem-typography-headline-small-font-family: var(--sem-font-family-headline);
+  --sem-typography-headline-small-font-size: var(--prim-font-size-lg);
+  --sem-typography-headline-small-font-weight: var(--prim-font-weight-2xl);
+  --sem-typography-headline-small-font-lineHeight: var(--prim-lineHeight-md);
+
+  /* Title Large */
+  --sem-typography-title-large-font-family: var(--sem-font-family-body);
+  --sem-typography-title-large-font-size: var(--prim-font-size-2xl);
+  --sem-typography-title-large-font-weight: var(--prim-font-weight-2xl);
+  --sem-typography-title-large-font-lineHeight: var(--prim-lineHeight-md);
+  /* Title Medium */
+  --sem-typography-title-medium-font-family: var(--sem-font-family-body);
+  --sem-typography-title-medium-font-size: var(--prim-font-size-xl);
+  --sem-typography-title-medium-font-weight: var(--prim-font-weight-2xl);
+  --sem-typography-title-medium-font-lineHeight: var(--prim-lineHeight-md);
+  /* Title Small */
+  --sem-typography-title-small-font-family: var(--sem-font-family-body);
+  --sem-typography-title-small-font-size: var(--prim-font-size-lg);
+  --sem-typography-title-small-font-weight: var(--prim-font-weight-2xl);
+  --sem-typography-title-small-font-lineHeight: var(--prim-lineHeight-md);
+
+  /* Body Large */
+  --sem-typography-body-large-font-family: var(--sem-font-family-body);
+  --sem-typography-body-large-font-size: var(--prim-font-size-lg);
+  --sem-typography-body-large-font-weight: var(--sem-font-size-body);
+  --sem-typography-body-large-font-lineHeight: var(--prim-lineHeight-md);
+  /* Body Medium */
+  --sem-typography-body-medium-font-family: var(--sem-font-family-body);
+  --sem-typography-body-medium-font-size: var(--prim-font-size-md);
+  --sem-typography-body-medium-font-weight: var(--sem-font-size-body);
+  --sem-typography-body-medium-font-lineHeight: var(--prim-lineHeight-md);
+  /* Body Small */
+  --sem-typography-body-small-font-family: var(--sem-font-family-body);
+  --sem-typography-body-small-font-size: var(--prim-font-size-sm);
+  --sem-typography-body-small-font-weight: var(--sem-font-size-body);
+  --sem-typography-body-small-font-lineHeight: var(--prim-lineHeight-md);
+
+  /* Label Large */
+  --sem-typography-label-large-font-family: var(--sem-font-family-body);
+  --sem-typography-label-large-font-size: var(--prim-font-size-sm);
+  --sem-typography-label-large-font-weight: var(--sem-font-size-body);
+  --sem-typography-label-large-font-lineHeight: var(--prim-lineHeight-sm);
+  /* Label Medium */
+  --sem-typography-label-medium-font-family: var(--sem-font-family-body);
+  --sem-typography-label-medium-font-size: var(--prim-font-size-xs);
+  --sem-typography-label-medium-font-weight: var(--sem-font-size-body);
+  --sem-typography-label-medium-font-lineHeight: var(--prim-lineHeight-xs);
+  /* Label Small */
+  --sem-typography-label-small-font-family: var(--sem-font-family-body);
+  --sem-typography-label-small-font-size: var(--prim-font-size-2xs);
+  --sem-typography-label-small-font-weight: var(--sem-font-size-body);
+  --sem-typography-label-small-font-lineHeight: var(--prim-lineHeight-2xs);
+}
+
+.--typo--display-large,
+h1 {
+  /* Display Large */
+  font-family: var(--sem-typography-display-large-font-family);
+  font-size: var(--sem-typography-display-large-font-size);
+  font-weight: var(--sem-typography-display-large-font-weight);
+  line-height: var(--sem-typography-display-large-font-lineHeight);
+}
+
+.--typo--display-medium,
+h2 {
+  /* Display Medium */
+  font-family: var(--sem-typography-display-medium-font-family);
+  font-size: var(--sem-typography-display-medium-font-size);
+  font-weight: var(--sem-typography-display-medium-font-weight);
+  line-height: var(--sem-typography-display-medium-font-lineHeight);
+}
+
+.--typo--display-small,
+h3 {
+  /* Display Small */
+  font-family: var(--sem-typography-display-small-font-family);
+  font-size: var(--sem-typography-display-small-font-size);
+  font-weight: var(--sem-typography-display-small-font-weight);
+  line-height: var(--sem-typography-display-small-font-lineHeight);
+}
+
+.--typo--headline-large,
+h4 {
+  /* Headline Large */
+  font-family: var(--sem-typography-headline-large-font-family);
+  font-size: var(--sem-typography-headline-large-font-size);
+  font-weight: var(--sem-typography-headline-large-font-weight);
+  line-height: var(--sem-typography-headline-large-font-lineHeight);
+}
+
+.--typo--headline-medium,
+h5 {
+  /* Headline Medium */
+  font-family: var(--sem-typography-headline-medium-font-family);
+  font-size: var(--sem-typography-headline-medium-font-size);
+  font-weight: var(--sem-typography-headline-medium-font-weight);
+  line-height: var(--sem-typography-headline-medium-font-lineHeight);
+}
+
+.--typo--headline-small,
+h6 {
+  /* Headline Small */
+  font-family: var(--sem-typography-headline-small-font-family);
+  font-size: var(--sem-typography-headline-small-font-size);
+  font-weight: var(--sem-typography-headline-small-font-weight);
+  line-height: var(--sem-typography-headline-small-font-lineHeight);
+}
+
+.--typo--title-large {
+  /* Title Large */
+  font-family: var(--sem-typography-title-large-font-family);
+  font-size: var(--sem-typography-title-large-font-size);
+  font-weight: var(--sem-typography-title-large-font-weight);
+  line-height: var(--sem-typography-title-large-font-lineHeight);
+}
+
+.--typo--title-medium {
+  /* Title Medium */
+  font-family: var(--sem-typography-title-medium-font-family);
+  font-size: var(--sem-typography-title-medium-font-size);
+  font-weight: var(--sem-typography-title-medium-font-weight);
+  line-height: var(--sem-typography-title-medium-font-lineHeight);
+}
+
+.--typo--title-small {
+  /* Title Small */
+  font-family: var(--sem-typography-title-small-font-family);
+  font-size: var(--sem-typography-title-small-font-size);
+  font-weight: var(--sem-typography-title-small-font-weight);
+  line-height: var(--sem-typography-title-small-font-lineHeight);
+}
+
+.--typo--body-large {
+  /* Body Large */
+  font-family: var(--sem-typography-body-large-font-family);
+  font-size: var(--sem-typography-body-large-font-size);
+  font-weight: var(--sem-typography-body-large-font-weight);
+  line-height: var(--sem-typography-body-large-font-lineHeight);
+}
+
+.--typo--body-medium,
+body {
+  /* Body Medium */
+  font-family: var(--sem-typography-body-medium-font-family);
+  font-size: var(--sem-typography-body-medium-font-size);
+  font-weight: var(--sem-typography-body-medium-font-weight);
+  line-height: var(--sem-typography-body-medium-font-lineHeight);
+}
+
+.--typo--body-small,
+button {
+  /* Body Small */
+  font-family: var(--sem-typography-body-small-font-family);
+  font-size: var(--sem-typography-body-small-font-size);
+  font-weight: var(--sem-typography-body-small-font-weight);
+  line-height: var(--sem-typography-body-small-font-lineHeight);
+}
+
+.--typo--label-large {
+  /* Label Large */
+  font-family: var(--sem-typography-label-large-font-family);
+  font-size: var(--sem-typography-label-large-font-size);
+  font-weight: var(--sem-typography-label-large-font-weight);
+  line-height: var(--sem-typography-label-large-font-lineHeight);
+}
+
+.--typo--label-medium {
+  /* Label Medium */
+  font-family: var(--sem-typography-label-medium-font-family);
+  font-size: var(--sem-typography-label-medium-font-size);
+  font-weight: var(--sem-typography-label-medium-font-weight);
+  line-height: var(--sem-typography-label-medium-font-lineHeight);
+}
+
+.--typo--label-small {
+  /* Label Small */
+  font-family: var(--sem-typography-label-small-font-family);
+  font-size: var(--sem-typography-label-small-font-size);
+  font-weight: var(--sem-typography-label-small-font-weight);
+  line-height: var(--sem-typography-label-small-font-lineHeight);
+}

@@ -1,0 +1,474 @@
+@import './base.css';
+
+/* ---------------------------------------------------------------------------
+  Color */
+
+:root {
+  color-scheme: light dark;
+}
+
+:root {
+  --vt-c-indigo: #2c3e50;
+
+  --vt-c-divider-light-1: rgba(60, 60, 60, 0.29);
+  --vt-c-divider-light-2: rgba(60, 60, 60, 0.12);
+  --vt-c-divider-dark-1: rgba(84, 84, 84, 0.65);
+  --vt-c-divider-dark-2: rgba(84, 84, 84, 0.48);
+
+  --vt-c-text-light-1: var(--vt-c-indigo);
+  --vt-c-text-light-2: rgba(60, 60, 60, 0.66);
+  --vt-c-text-dark-1: var(--vt-c-white);
+  --vt-c-text-dark-2: rgba(235, 235, 235, 0.64);
+
+  --util-color-lightness-100: 0.2;
+  --util-color-lightness-200: 0.4;
+  --util-color-lightness-300: 0.6;
+  --util-color-lightness-400: 0.8;
+  --util-color-lightness-500: 1;
+  --util-color-lightness-600: 1.2;
+  --util-color-lightness-700: 1.4;
+  --util-color-lightness-800: 1.6;
+  --util-color-lightness-900: 1.8;
+}
+
+/* Primative */
+:root {
+  --prim-color-primary-100: hsl(
+    from var(--base-color-brand-primary) h s calc(l * var(--util-color-lightness-100))
+  );
+  --prim-color-primary-200: hsl(
+    from var(--base-color-brand-primary) h s calc(l * var(--util-color-lightness-200))
+  );
+  --prim-color-primary-300: hsl(
+    from var(--base-color-brand-primary) h s calc(l * var(--util-color-lightness-300))
+  );
+  --prim-color-primary-400: hsl(
+    from var(--base-color-brand-primary) h s calc(l * var(--util-color-lightness-400))
+  );
+  --prim-color-primary-500: hsl(
+    from var(--base-color-brand-primary) h s calc(l * var(--util-color-lightness-500))
+  );
+  --prim-color-primary-600: hsl(
+    from var(--base-color-brand-primary) h s calc(l * var(--util-color-lightness-600))
+  );
+  --prim-color-primary-700: hsl(
+    from var(--base-color-brand-primary) h s calc(l * var(--util-color-lightness-700))
+  );
+  --prim-color-primary-800: hsl(
+    from var(--base-color-brand-primary) h s calc(l * var(--util-color-lightness-800))
+  );
+  --prim-color-primary-900: hsl(
+    from var(--base-color-brand-primary) h s calc(l * var(--util-color-lightness-900))
+  );
+
+  --prim-color-secondary-100: hsl(
+    from var(--base-color-brand-secondary) h s calc(l * var(--util-color-lightness-100))
+  );
+  --prim-color-secondary-200: hsl(
+    from var(--base-color-brand-secondary) h s calc(l * var(--util-color-lightness-200))
+  );
+  --prim-color-secondary-300: hsl(
+    from var(--base-color-brand-secondary) h s calc(l * var(--util-color-lightness-300))
+  );
+  --prim-color-secondary-400: hsl(
+    from var(--base-color-brand-secondary) h s calc(l * var(--util-color-lightness-400))
+  );
+  --prim-color-secondary-500: hsl(
+    from var(--base-color-brand-secondary) h s calc(l * var(--util-color-lightness-500))
+  );
+  --prim-color-secondary-600: hsl(
+    from var(--base-color-brand-secondary) h s calc(l * var(--util-color-lightness-600))
+  );
+  --prim-color-secondary-700: hsl(
+    from var(--base-color-brand-secondary) h s calc(l * var(--util-color-lightness-700))
+  );
+  --prim-color-secondary-800: hsl(
+    from var(--base-color-brand-secondary) h s calc(l * var(--util-color-lightness-800))
+  );
+  --prim-color-secondary-900: hsl(
+    from var(--base-color-brand-secondary) h s calc(l * var(--util-color-lightness-900))
+  );
+
+  --prim-color-tertiary-100: hsl(
+    from var(--base-color-brand-tertiary) h s calc(l * var(--util-color-lightness-100))
+  );
+  --prim-color-tertiary-200: hsl(
+    from var(--base-color-brand-tertiary) h s calc(l * var(--util-color-lightness-200))
+  );
+  --prim-color-tertiary-300: hsl(
+    from var(--base-color-brand-tertiary) h s calc(l * var(--util-color-lightness-300))
+  );
+  --prim-color-tertiary-400: hsl(
+    from var(--base-color-brand-tertiary) h s calc(l * var(--util-color-lightness-400))
+  );
+  --prim-color-tertiary-500: hsl(
+    from var(--base-color-brand-tertiary) h s calc(l * var(--util-color-lightness-500))
+  );
+  --prim-color-tertiary-600: hsl(
+    from var(--base-color-brand-tertiary) h s calc(l * var(--util-color-lightness-600))
+  );
+  --prim-color-tertiary-700: hsl(
+    from var(--base-color-brand-tertiary) h s calc(l * var(--util-color-lightness-700))
+  );
+  --prim-color-tertiary-800: hsl(
+    from var(--base-color-brand-tertiary) h s calc(l * var(--util-color-lightness-800))
+  );
+  --prim-color-tertiary-900: hsl(
+    from var(--base-color-brand-tertiary) h s calc(l * var(--util-color-lightness-900))
+  );
+
+  --prim-color-accent-100: hsl(
+    from var(--base-color-brand-accent) h s calc(l * var(--util-color-lightness-100))
+  );
+  --prim-color-accent-200: hsl(
+    from var(--base-color-brand-accent) h s calc(l * var(--util-color-lightness-200))
+  );
+  --prim-color-accent-300: hsl(
+    from var(--base-color-brand-accent) h s calc(l * var(--util-color-lightness-300))
+  );
+  --prim-color-accent-400: hsl(
+    from var(--base-color-brand-accent) h s calc(l * var(--util-color-lightness-400))
+  );
+  --prim-color-accent-500: hsl(
+    from var(--base-color-brand-accent) h s calc(l * var(--util-color-lightness-500))
+  );
+  --prim-color-accent-600: hsl(
+    from var(--base-color-brand-accent) h s calc(l * var(--util-color-lightness-600))
+  );
+  --prim-color-accent-700: hsl(
+    from var(--base-color-brand-accent) h s calc(l * var(--util-color-lightness-700))
+  );
+  --prim-color-accent-800: hsl(
+    from var(--base-color-brand-accent) h s calc(l * var(--util-color-lightness-800))
+  );
+  --prim-color-accent-900: hsl(
+    from var(--base-color-brand-accent) h s calc(l * var(--util-color-lightness-900))
+  );
+
+  --prim-color-neutral-100: hsl(
+    from var(--base-color-neutral) h s calc(l * var(--util-color-lightness-100))
+  );
+  --prim-color-neutral-200: hsl(
+    from var(--base-color-neutral) h s calc(l * var(--util-color-lightness-200))
+  );
+  --prim-color-neutral-300: hsl(
+    from var(--base-color-neutral) h s calc(l * var(--util-color-lightness-300))
+  );
+  --prim-color-neutral-400: hsl(
+    from var(--base-color-neutral) h s calc(l * var(--util-color-lightness-400))
+  );
+  --prim-color-neutral-500: hsl(
+    from var(--base-color-neutral) h s calc(l * var(--util-color-lightness-500))
+  );
+  --prim-color-neutral-600: hsl(
+    from var(--base-color-neutral) h s calc(l * var(--util-color-lightness-600))
+  );
+  --prim-color-neutral-700: hsl(
+    from var(--base-color-neutral) h s calc(l * var(--util-color-lightness-700))
+  );
+  --prim-color-neutral-800: hsl(
+    from var(--base-color-neutral) h s calc(l * var(--util-color-lightness-800))
+  );
+  --prim-color-neutral-900: hsl(
+    from var(--base-color-neutral) h s calc(l * var(--util-color-lightness-900))
+  );
+
+  --prim-color-feedback-success-100: hsl(
+    from var(--base-color-feedback-success) h s calc(l * var(--util-color-lightness-100))
+  );
+  --prim-color-feedback-success-200: hsl(
+    from var(--base-color-feedback-success) h s calc(l * var(--util-color-lightness-200))
+  );
+  --prim-color-feedback-success-300: hsl(
+    from var(--base-color-feedback-success) h s calc(l * var(--util-color-lightness-300))
+  );
+  --prim-color-feedback-success-400: hsl(
+    from var(--base-color-feedback-success) h s calc(l * var(--util-color-lightness-400))
+  );
+  --prim-color-feedback-success-500: hsl(
+    from var(--base-color-feedback-success) h s calc(l * var(--util-color-lightness-500))
+  );
+  --prim-color-feedback-success-600: hsl(
+    from var(--base-color-feedback-success) h s calc(l * var(--util-color-lightness-600))
+  );
+  --prim-color-feedback-success-700: hsl(
+    from var(--base-color-feedback-success) h s calc(l * var(--util-color-lightness-700))
+  );
+  --prim-color-feedback-success-800: hsl(
+    from var(--base-color-feedback-success) h s calc(l * var(--util-color-lightness-800))
+  );
+  --prim-color-feedback-success-900: hsl(
+    from var(--base-color-feedback-success) h s calc(l * var(--util-color-lightness-900))
+  );
+
+  --prim-color-feedback-warning-100: hsl(
+    from var(--base-color-feedback-warning) h s calc(l * var(--util-color-lightness-100))
+  );
+  --prim-color-feedback-warning-200: hsl(
+    from var(--base-color-feedback-warning) h s calc(l * var(--util-color-lightness-200))
+  );
+  --prim-color-feedback-warning-300: hsl(
+    from var(--base-color-feedback-warning) h s calc(l * var(--util-color-lightness-300))
+  );
+  --prim-color-feedback-warning-400: hsl(
+    from var(--base-color-feedback-warning) h s calc(l * var(--util-color-lightness-400))
+  );
+  --prim-color-feedback-warning-500: hsl(
+    from var(--base-color-feedback-warning) h s calc(l * var(--util-color-lightness-500))
+  );
+  --prim-color-feedback-warning-600: hsl(
+    from var(--base-color-feedback-warning) h s calc(l * var(--util-color-lightness-600))
+  );
+  --prim-color-feedback-warning-700: hsl(
+    from var(--base-color-feedback-warning) h s calc(l * var(--util-color-lightness-700))
+  );
+  --prim-color-feedback-warning-800: hsl(
+    from var(--base-color-feedback-warning) h s calc(l * var(--util-color-lightness-800))
+  );
+  --prim-color-feedback-warning-900: hsl(
+    from var(--base-color-feedback-warning) h s calc(l * var(--util-color-lightness-900))
+  );
+
+  --prim-color-feedback-error-100: hsl(
+    from var(--base-color-feedback-error) h s calc(l * var(--util-color-lightness-100))
+  );
+  --prim-color-feedback-error-200: hsl(
+    from var(--base-color-feedback-error) h s calc(l * var(--util-color-lightness-200))
+  );
+  --prim-color-feedback-error-300: hsl(
+    from var(--base-color-feedback-error) h s calc(l * var(--util-color-lightness-300))
+  );
+  --prim-color-feedback-error-400: hsl(
+    from var(--base-color-feedback-error) h s calc(l * var(--util-color-lightness-400))
+  );
+  --prim-color-feedback-error-500: hsl(
+    from var(--base-color-feedback-error) h s calc(l * var(--util-color-lightness-500))
+  );
+  --prim-color-feedback-error-600: hsl(
+    from var(--base-color-feedback-error) h s calc(l * var(--util-color-lightness-600))
+  );
+  --prim-color-feedback-error-700: hsl(
+    from var(--base-color-feedback-error) h s calc(l * var(--util-color-lightness-700))
+  );
+  --prim-color-feedback-error-800: hsl(
+    from var(--base-color-feedback-error) h s calc(l * var(--util-color-lightness-800))
+  );
+  --prim-color-feedback-error-900: hsl(
+    from var(--base-color-feedback-error) h s calc(l * var(--util-color-lightness-900))
+  );
+
+  --prim-color-feedback-info-100: hsl(
+    from var(--base-color-feedback-info) h s calc(l * var(--util-color-lightness-100))
+  );
+  --prim-color-feedback-info-200: hsl(
+    from var(--base-color-feedback-info) h s calc(l * var(--util-color-lightness-200))
+  );
+  --prim-color-feedback-info-300: hsl(
+    from var(--base-color-feedback-info) h s calc(l * var(--util-color-lightness-300))
+  );
+  --prim-color-feedback-info-400: hsl(
+    from var(--base-color-feedback-info) h s calc(l * var(--util-color-lightness-400))
+  );
+  --prim-color-feedback-info-500: hsl(
+    from var(--base-color-feedback-info) h s calc(l * var(--util-color-lightness-500))
+  );
+  --prim-color-feedback-info-600: hsl(
+    from var(--base-color-feedback-info) h s calc(l * var(--util-color-lightness-600))
+  );
+  --prim-color-feedback-info-700: hsl(
+    from var(--base-color-feedback-info) h s calc(l * var(--util-color-lightness-700))
+  );
+  --prim-color-feedback-info-800: hsl(
+    from var(--base-color-feedback-info) h s calc(l * var(--util-color-lightness-800))
+  );
+  --prim-color-feedback-info-900: hsl(
+    from var(--base-color-feedback-info) h s calc(l * var(--util-color-lightness-900))
+  );
+}
+
+/* Semantic */
+:root {
+  --sem-color-white: #ffffff;
+  --sem-color-white-soft: #f8f8f8;
+  --sem-color-white-mute: #f2f2f2;
+
+  --sem-color-black: #181818;
+  --sem-color-black-soft: #222222;
+  --sem-color-black-mute: #282828;
+
+  --sem-color-background: light-dark(var(--sem-color-white), var(--sem-color-black));
+  --sem-color-background-soft: light-dark(var(--sem-color-white-soft), var(--sem-color-black-soft));
+  --sem-color-background-mute: light-dark(var(--sem-color-white-mute), var(--sem-color-black-mute));
+
+  --sem-color-border: light-dark(var(--vt-c-divider-light-2), var(--vt-c-divider-dark-2));
+  --sem-color-border-hover: light-dark(var(--vt-c-divider-light-1), var(--vt-c-divider-dark-1));
+
+  --sem-color-heading: light-dark(var(--vt-c-text-light-1), var(--vt-c-text-dark-1));
+  --sem-color-text: light-dark(var(--vt-c-text-light-1), var(--vt-c-text-dark-2));
+  --sem-color-icon: light-dark(var(--vt-c-text-light-1), var(--vt-c-text-dark-2));
+  --sem-color-link: light-dark(var(--prim-color-primary-500), var(--prim-color-primary-800));
+  --sem-color-link-hover: light-dark(
+    hsl(from var(--prim-color-primary-500) h s l / 0.12),
+    hsl(from var(--prim-color-primary-800) h s l / 0.12)
+  );
+
+  --sem-section-gap: 160px;
+}
+
+/* --------------------------------------------------------------------------- 
+  Spacing */
+
+/* Primative */
+:root {
+  --prim-space-6xl: 160px;
+  --prim-space-5xl: 120px;
+  --prim-space-4xl: 80px;
+  --prim-space-3xl: 64px;
+  --prim-space-2xl: 40px;
+  --prim-space-xl: 32px;
+  --prim-space-lg: 32px;
+  --prim-space-md: 24px;
+  --prim-space-sm: 16px;
+  --prim-space-xs: 8px;
+  --prim-space-2xs: 4px;
+  --prim-space-3xs: 2px;
+}
+
+/* Semantic */
+:root {
+  --sem-card-md: var(--prim-space-sm);
+}
+
+/* ---------------------------------------------------------------------------
+  Typography */
+
+/* Primative */
+:root {
+  /**/
+  --prim-font-family-01: var(--base-font-family-body);
+  --prim-font-family-02: var(--base-font-family-headline);
+  /**/
+  --prim-font-size-5xl: round(calc(var(--prim-font-size-4xl) * var(--base-font-scale)), 1px);
+  --prim-font-size-4xl: round(calc(var(--prim-font-size-3xl) * var(--base-font-scale)), 1px);
+  --prim-font-size-3xl: round(calc(var(--prim-font-size-2xl) * var(--base-font-scale)), 1px);
+  --prim-font-size-2xl: round(calc(var(--prim-font-size-xl) * var(--base-font-scale)), 1px);
+  --prim-font-size-xl: round(calc(var(--prim-font-size-lg) * var(--base-font-scale)), 1px);
+  --prim-font-size-lg: round(calc(var(--prim-font-size-md) * var(--base-font-scale)), 1px);
+  --prim-font-size-md: round(var(--base-font-size), 1px);
+  --prim-font-size-sm: round(calc(var(--prim-font-size-md) / var(--base-font-scale)), 1px);
+  --prim-font-size-xs: round(calc(var(--prim-font-size-sm) / var(--base-font-scale)), 1px);
+  --prim-font-size-2xs: round(calc(var(--prim-font-size-xs) / var(--base-font-scale)), 1px);
+  /**/
+  --prim-lineHeight-5xl: 1em;
+  --prim-lineHeight-4xl: 1em;
+  --prim-lineHeight-3xl: 1em;
+  --prim-lineHeight-2xl: 1em;
+  --prim-lineHeight-xl: 1.5em;
+  --prim-lineHeight-lg: 1.5em;
+  --prim-lineHeight-md: 1.5em;
+  --prim-lineHeight-sm: 1.5em;
+  --prim-lineHeight-xs: 1.5em;
+  --prim-lineHeight-2xs: 1.5em;
+  /**/
+  --prim-font-weight-4xl: 900;
+  --prim-font-weight-3xl: 800;
+  --prim-font-weight-2xl: 700;
+  --prim-font-weight-xl: 600;
+  --prim-font-weight-lg: 500;
+  --prim-font-weight-md: 400;
+  --prim-font-weight-sm: 300;
+  --prim-font-weight-xs: 200;
+}
+
+/* Semantic */
+:root {
+  /* Font Props */
+  --sem-font-family-body: var(--prim-font-family-01);
+  --sem-font-family-headline: var(--prim-font-family-02);
+  --sem-font-size-body: var(--prim-font-size-md);
+}
+
+/* --------------------------------------------------------------------------- 
+  Typography */
+
+:root {
+  /* Display Large */
+  --sem-typography-display-large-font-family: var(--sem-font-family-headline);
+  --sem-typography-display-large-font-size: var(--prim-font-size-5xl);
+  --sem-typography-display-large-font-weight: var(--prim-font-weight-4xl);
+  --sem-typography-display-large-font-lineHeight: var(--prim-lineHeight-4xl);
+  /* Display Medium */
+  --sem-typography-display-medium-font-family: var(--sem-font-family-headline);
+  --sem-typography-display-medium-font-size: var(--prim-font-size-4xl);
+  --sem-typography-display-medium-font-weight: var(--prim-font-weight-4xl);
+  --sem-typography-display-medium-font-lineHeight: var(--prim-lineHeight-3xl);
+  /* Display Small */
+  --sem-typography-display-small-font-family: var(--sem-font-family-headline);
+  --sem-typography-display-small-font-size: var(--prim-font-size-3xl);
+  --sem-typography-display-small-font-weight: var(--prim-font-weight-4xl);
+  --sem-typography-display-small-font-lineHeight: var(--prim-lineHeight-2xl);
+
+  /* Headline Large */
+  --sem-typography-headline-large-font-family: var(--sem-font-family-headline);
+  --sem-typography-headline-large-font-size: var(--prim-font-size-2xl);
+  --sem-typography-headline-large-font-weight: var(--prim-font-weight-2xl);
+  --sem-typography-headline-large-font-lineHeight: var(--prim-lineHeight-xl);
+  /* Headline Medium */
+  --sem-typography-headline-medium-font-family: var(--sem-font-family-headline);
+  --sem-typography-headline-medium-font-size: var(--prim-font-size-xl);
+  --sem-typography-headline-medium-font-weight: var(--prim-font-weight-2xl);
+  --sem-typography-headline-medium-font-lineHeight: var(--prim-lineHeight-lg);
+  /* Headline Small */
+  --sem-typography-headline-small-font-family: var(--sem-font-family-headline);
+  --sem-typography-headline-small-font-size: var(--prim-font-size-lg);
+  --sem-typography-headline-small-font-weight: var(--prim-font-weight-2xl);
+  --sem-typography-headline-small-font-lineHeight: var(--prim-lineHeight-md);
+
+  /* Title Large */
+  --sem-typography-title-large-font-family: var(--sem-font-family-body);
+  --sem-typography-title-large-font-size: var(--prim-font-size-2xl);
+  --sem-typography-title-large-font-weight: var(--prim-font-weight-2xl);
+  --sem-typography-title-large-font-lineHeight: var(--prim-lineHeight-md);
+  /* Title Medium */
+  --sem-typography-title-medium-font-family: var(--sem-font-family-body);
+  --sem-typography-title-medium-font-size: var(--prim-font-size-xl);
+  --sem-typography-title-medium-font-weight: var(--prim-font-weight-2xl);
+  --sem-typography-title-medium-font-lineHeight: var(--prim-lineHeight-md);
+  /* Title Small */
+  --sem-typography-title-small-font-family: var(--sem-font-family-body);
+  --sem-typography-title-small-font-size: var(--prim-font-size-lg);
+  --sem-typography-title-small-font-weight: var(--prim-font-weight-2xl);
+  --sem-typography-title-small-font-lineHeight: var(--prim-lineHeight-md);
+
+  /* Body Large */
+  --sem-typography-body-large-font-family: var(--sem-font-family-body);
+  --sem-typography-body-large-font-size: var(--prim-font-size-lg);
+  --sem-typography-body-large-font-weight: var(--sem-font-size-body);
+  --sem-typography-body-large-font-lineHeight: var(--prim-lineHeight-md);
+  /* Body Medium */
+  --sem-typography-body-medium-font-family: var(--sem-font-family-body);
+  --sem-typography-body-medium-font-size: var(--prim-font-size-md);
+  --sem-typography-body-medium-font-weight: var(--sem-font-size-body);
+  --sem-typography-body-medium-font-lineHeight: var(--prim-lineHeight-md);
+  /* Body Small */
+  --sem-typography-body-small-font-family: var(--sem-font-family-body);
+  --sem-typography-body-small-font-size: var(--prim-font-size-sm);
+  --sem-typography-body-small-font-weight: var(--sem-font-size-body);
+  --sem-typography-body-small-font-lineHeight: var(--prim-lineHeight-md);
+
+  /* Label Large */
+  --sem-typography-label-large-font-family: var(--sem-font-family-body);
+  --sem-typography-label-large-font-size: var(--prim-font-size-sm);
+  --sem-typography-label-large-font-weight: var(--sem-font-size-body);
+  --sem-typography-label-large-font-lineHeight: var(--prim-lineHeight-sm);
+  /* Label Medium */
+  --sem-typography-label-medium-font-family: var(--sem-font-family-body);
+  --sem-typography-label-medium-font-size: var(--prim-font-size-xs);
+  --sem-typography-label-medium-font-weight: var(--sem-font-size-body);
+  --sem-typography-label-medium-font-lineHeight: var(--prim-lineHeight-xs);
+  /* Label Small */
+  --sem-typography-label-small-font-family: var(--sem-font-family-body);
+  --sem-typography-label-small-font-size: var(--prim-font-size-2xs);
+  --sem-typography-label-small-font-weight: var(--sem-font-size-body);
+  --sem-typography-label-small-font-lineHeight: var(--prim-lineHeight-2xs);
+}

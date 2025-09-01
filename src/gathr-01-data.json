@@ -1,0 +1,6935 @@
+{
+  "user": {
+    "signedIn": true,
+    "details": {
+      "firstName": "Dan",
+      "lastName": "Danowski",
+      "fullName": "Dan Danowski",
+      "memberType": "Community Admin"
+    }
+  },
+  "events": [
+    {
+      "id": 1,
+      "title": "Weekly Practice: Offensive Drills",
+      "description": "Focus on offensive plays, passing accuracy, and coordinated attacks. We'll be running through different set plays and working on team chemistry in the final third. Please arrive 15 minutes early for warm-ups. Bring your water bottle and shin guards.",
+      "owner": {
+        "name": "Coach Alex",
+        "type": "Coach"
+      },
+      "start": "2025-09-02T18:00Z",
+      "end": "2025-09-02T19:30Z",
+      "location": "Central High School Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "Can't wait to practice the new formation!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Coach Alex",
+              "type": "Coach"
+            },
+            "comment": "Good energy, team! Let's make this a productive session."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Ready to work on my passing!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Perfect, we need to sharpen up our attack."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "See you all on the field!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Thanks for the heads up, Coach!"
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "See you there! I'll be there early."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 2,
+      "title": "Home Game vs. Wildcats",
+      "description": "Our first home game of the season! Let's get out there and show them what we're all about. Please arrive at the field 60 minutes before kick-off for warm-ups and team talk.",
+      "owner": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "start": "2025-09-06T14:00Z",
+      "end": "2025-09-06T16:00Z",
+      "location": "Home Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Pumped for this! Let's get the win!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "So excited to play in front of our fans."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Ready to give 110%. Go team!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "See you all there! Let's make them proud."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Let's go, team! We've got this."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Coach Sam",
+              "type": "Coach"
+            },
+            "comment": "Great to see the energy. Stay focused and disciplined."
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Can't wait to step on the field!"
+          },
+          {
+            "id": 8,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "We'll do our best. Let's make it a good game."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 3,
+      "title": "Team Photo Session",
+      "description": "Don't forget we have our official team photo session this coming Monday at 5 PM. Please wear your full home kit and be on time!",
+      "owner": {
+        "name": "Dan",
+        "type": "Coach"
+      },
+      "start": "2025-09-08T17:00Z",
+      "end": "2025-09-08T18:00Z",
+      "location": "Central High School Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Got it! Time to iron the jersey."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Can't wait to see how it turns out!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Will be there!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Looking forward to it. Thanks for the reminder."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "My kit is clean and ready to go!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Will be there a few minutes early."
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "Should we wear our cleats too?"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 4,
+      "title": "Practice Postponed",
+      "description": "Due to the heavy rain and unplayable field conditions, tonight's practice is canceled. Stay safe and dry. We'll see you all at the next session on Thursday.",
+      "owner": {
+        "name": "Coach Pat",
+        "type": "Coach"
+      },
+      "start": "2025-09-09T16:00Z",
+      "end": "2025-09-09T17:30Z",
+      "location": "Central High School Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Bummer! Thanks for the heads up, Coach."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Good call, the field was looking rough."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Stay dry everyone! See you Thursday."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Time for some extra video analysis then!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Makes sense. Be safe everyone!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Will do some solo drills at home. See ya Thursday!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 5,
+      "title": "Away Game vs. Eagles",
+      "description": "Our first away game! Let's bring our A-game and show them we can win anywhere. We will meet at the Central High School parking lot to carpool. Please let your coach know if you need a ride.",
+      "owner": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "start": "2025-09-13T10:00Z",
+      "end": "2025-09-13T12:00Z",
+      "location": "Eagles' Nest Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "I have 3 spots available for carpool!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "I need a ride please, Morgan!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "I can take 2 people in my car."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Thanks, Jordan. Can I get one of those spots?"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Coach Sam",
+              "type": "Coach"
+            },
+            "comment": "This is great. Please coordinate directly now. Thanks for helping out, everyone!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "I can also offer a ride for 2. Let me know if anyone still needs one."
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "I'll ride with Jordan then. Thanks!"
+          },
+          {
+            "id": 8,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "Just confirmed with Alex. Thanks for the ride!"
+          },
+          {
+            "id": 9,
+            "member": {
+              "name": "Dan",
+              "type": "Coach"
+            },
+            "comment": "Looks like we have enough rides. Good job, team!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 6,
+      "title": "Weekly Practice: Defensive Drills",
+      "description": "This week, our focus is on defense. We'll work on positioning, marking, and communicating as a backline. Be prepared for some high-intensity drills!",
+      "owner": {
+        "name": "Coach Alex",
+        "type": "Coach"
+      },
+      "start": "2025-09-16T18:00Z",
+      "end": "2025-09-16T19:30Z",
+      "location": "Central High School Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Ready to get my defensive skills polished."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Sounds great. Our defense wins games!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "This is what we need to improve on. See you there."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Let's lock it down this week, team!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Time to practice hard. See you all soon."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Ready to work! Thanks for the plan, Coach."
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "Defense is key. Can't wait!"
+          },
+          {
+            "id": 8,
+            "member": {
+              "name": "Coach Pat",
+              "type": "Coach"
+            },
+            "comment": "Focus on communication, team. It makes all the difference."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 7,
+      "title": "Game Day Itinerary",
+      "description": "For this weekend's home game, please be at the field by 2:15 PM for pre-match warm-ups and strategy session. Let's get our heads in the game early!",
+      "owner": {
+        "name": "Coach Pat",
+        "type": "Coach"
+      },
+      "start": "2025-09-20T14:15Z",
+      "end": "2025-09-20T16:00Z",
+      "location": "Home Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Got it! See you there."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Understood. Ready to focus on the game."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Perfect. Thanks for the details."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "On my way! Let's get this win."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Will be there on time."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Ready for some pre-game talk!"
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "I'll be there a few minutes early to warm up."
+          },
+          {
+            "id": 8,
+            "member": {
+              "name": "Coach Alex",
+              "type": "Coach"
+            },
+            "comment": "Let's all arrive prepared and ready to go."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 8,
+      "title": "Team Social: Bowling Night",
+      "description": "Just a reminder that we have our team bowling night tonight at 7 PM. See you all there!",
+      "owner": {
+        "name": "Dan",
+        "type": "Coach"
+      },
+      "start": "2025-09-21T19:00Z",
+      "end": "2025-09-21T21:00Z",
+      "location": "The Bowling Alley",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Looking forward to it! My bowling skills are a little rusty."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "I'm ready for a fun night out with the team!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "See you there! Let the games begin."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Can't wait! See you all tonight."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Sounds like a great time. On my way!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Perfect way to unwind from the last game."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 9,
+      "title": "Game Recap: We Won!",
+      "description": "What a game! We came back from a goal down to win 3-2. A true testament to your spirit and determination. Every single one of you played your heart out.",
+      "owner": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "start": "2025-09-23T10:00Z",
+      "end": "2025-09-23T10:00Z",
+      "location": "Online",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Amazing win, team! So proud."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "We never gave up! Great teamwork."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "What a comeback! Let's carry this momentum forward."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "That's what makes this team special. We fight for every ball."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "I'm so proud to be on this team!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Unforgettable game! Let's keep it going."
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "The energy on the field was incredible!"
+          },
+          {
+            "id": 8,
+            "member": {
+              "name": "Coach Pat",
+              "type": "Coach"
+            },
+            "comment": "That was a true display of guts and determination. Well done, team!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 10,
+      "title": "Weekly Practice: Set Pieces",
+      "description": "Our focus this week is on set pieces. We'll be working on corners, free kicks, and throw-ins to give us an edge in our next game. Be ready to practice different roles.",
+      "owner": {
+        "name": "Coach Alex",
+        "type": "Coach"
+      },
+      "start": "2025-09-24T18:00Z",
+      "end": "2025-09-24T19:30Z",
+      "location": "Central High School Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "I've been wanting to improve on this. Perfect!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Sounds like a productive week. See you there!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Let's master those corners!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Ready to work! Thanks for the heads-up."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Excited for a new challenge."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "This is a key area for our team. I'll be there!"
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Coach Sam",
+              "type": "Coach"
+            },
+            "comment": "Great plan, Alex. Set pieces can be a game changer."
+          },
+          {
+            "id": 8,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "I'll be there early to get some practice in."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 11,
+      "title": "Away Game vs. Hornets",
+      "description": "Another away game, another chance to prove our strength. Let's make sure we come out with high energy from the first whistle. Meet at the usual carpool location.",
+      "owner": {
+        "name": "Coach Pat",
+        "type": "Coach"
+      },
+      "start": "2025-09-27T11:00Z",
+      "end": "2025-09-27T13:00Z",
+      "location": "The Hornets' Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Ready to play! Let's get the win on the road."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "My parents are coming to watch. Let's make them proud!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "We'll be ready for anything they throw at us."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "See you all at the carpool point!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "So excited to play. Go team!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Let's bring that winning spirit from our last game."
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "I'm ready for the challenge. Let's go!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 12,
+      "title": "Player of the Match Shoutout",
+      "description": "A huge shoutout to Casey for her incredible work rate and positive attitude in Saturday's game. She was everywhere on the field and truly led by example. Congratulations, Casey!",
+      "owner": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "start": "2025-09-29T10:00Z",
+      "end": "2025-09-29T10:00Z",
+      "location": "Online",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Thanks, Coach! It was a team effort though, you all were amazing!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Well deserved, Casey! You were everywhere!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Congrats, Casey! You earned it."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "She's a machine! Always working hard."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "You were fantastic, Casey! Great job!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Congrats on the recognition, Casey!"
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "Always inspiring to see you play!"
+          },
+          {
+            "id": 8,
+            "member": {
+              "name": "Coach Pat",
+              "type": "Coach"
+            },
+            "comment": "A true leader on the field."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 13,
+      "title": "Weekly Practice: Fitness & Conditioning",
+      "description": "Today's practice is focused on fitness and conditioning. We'll be running drills to improve our speed and endurance. Remember to hydrate and bring extra energy!",
+      "owner": {
+        "name": "Coach Alex",
+        "type": "Coach"
+      },
+      "start": "2025-09-30T18:00Z",
+      "end": "2025-09-30T19:30Z",
+      "location": "Central High School Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Ready to get to work! Let's get fit."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "I'm ready for a good challenge!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "This is what separates us from the other teams. Let's do this!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "See you all on the track! I'll be there early to stretch."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Good plan, Coach. Looking forward to it."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "This will help us finish the season strong."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 14,
+      "title": "Home Game vs. Lightning",
+      "description": "Another home game, another opportunity to prove ourselves. We've been working hard on our fitness, so let's use that to our advantage!",
+      "owner": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "start": "2025-10-04T14:00Z",
+      "end": "2025-10-04T16:00Z",
+      "location": "Home Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Ready to run all game long!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Let's make sure we put on a good show for the home crowd."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "I'm feeling so fit after the last practice. Bring it on!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "This is a big game. Let's get the win!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Ready for a great game. Go team!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "See you all on the field Saturday!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 15,
+      "title": "Fundraiser Announcement",
+      "description": "We will be holding a team carwash fundraiser next weekend to raise money for new training equipment. More details on times and a sign-up sheet to follow!",
+      "owner": {
+        "name": "Dan",
+        "type": "Coach"
+      },
+      "start": "2025-10-06T12:00Z",
+      "end": "2025-10-06T12:00Z",
+      "location": "Online",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "I'm in! Happy to help."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Sounds like fun. Ready to get some cars clean!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Great idea, Dan! I'll be there."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Count me in. It's for a great cause."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "I'll make sure to get my name on the sign-up sheet."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Awesome! Thanks for organizing this."
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "Happy to help. Let's get that new equipment!"
+          },
+          {
+            "id": 8,
+            "member": {
+              "name": "Coach Sam",
+              "type": "Coach"
+            },
+            "comment": "Great to see the team coming together for this."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 16,
+      "title": "Weekly Practice: Team Scrimmage",
+      "description": "We will be holding a full team scrimmage to prepare for our upcoming game. This is a chance to put everything we've worked on into practice. Be ready for a competitive and fun session!",
+      "owner": {
+        "name": "Coach Alex",
+        "type": "Coach"
+      },
+      "start": "2025-10-07T18:00Z",
+      "end": "2025-10-07T19:30Z",
+      "location": "Central High School Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Sounds great! Ready to get a real game feel."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Let's see who's got the best skills!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Time to practice what we've learned!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Ready to play hard. See you all soon."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "This is going to be a fun practice."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Looking forward to it! Let's get a good scrimmage in."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 17,
+      "title": "Home Game vs. Falcons",
+      "description": "This is a big one! The Falcons are a tough team, so we'll need to be at our very best. Let's come out strong and play with intensity from the first minute.",
+      "owner": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "start": "2025-10-11T14:00Z",
+      "end": "2025-10-11T16:00Z",
+      "location": "Home Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "We can beat them! Let's go!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Ready for the challenge. See you all there."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "This is what we've been practicing for. Let's show them!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Time to prove ourselves. Go team!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Pumped for a tough game. This is going to be good."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "We have the skills. We just need to play our game."
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "I'll be ready for every challenge they bring!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 18,
+      "title": "Fundraiser Carwash",
+      "description": "All hands on deck! We're meeting at the designated spot to wash cars and raise money for new gear. Let's make this a fun and successful day for our team!",
+      "owner": {
+        "name": "Dan",
+        "type": "Coach"
+      },
+      "start": "2025-10-18T09:00Z",
+      "end": "2025-10-18T14:00Z",
+      "location": "Community Center Parking Lot",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Ready to get scrubbing! See you all there."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Bringing my towels! Let's go!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "I'm bringing my family to help out. They're excited!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "For new equipment! Let's do it!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Sounds like a great day for it. See you all there."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Awesome! Thanks for organizing, Dan."
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "I'll be there to help out. Let's raise some money!"
+          },
+          {
+            "id": 8,
+            "member": {
+              "name": "Coach Sam",
+              "type": "Coach"
+            },
+            "comment": "Let's show the community what a great team we have!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 19,
+      "title": "Game Recap: Tough Loss",
+      "description": "It wasn't the result we wanted, but I was so impressed with our team's fight. We never gave up and learned a lot from that game. Let's use it as fuel for next time!",
+      "owner": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "start": "2025-10-13T10:00Z",
+      "end": "2025-10-13T10:00Z",
+      "location": "Online",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "We fought hard until the end. I'm proud of our effort."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Thanks, Coach. We'll get them next time!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "It was a tough game, but we showed real heart."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "That's the spirit. We learn from this and get better."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "We'll keep our heads up and move forward."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Always proud to be a part of this team."
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "We never give up!"
+          },
+          {
+            "id": 8,
+            "member": {
+              "name": "Coach Alex",
+              "type": "Coach"
+            },
+            "comment": "I agree. The effort was tremendous. We'll fine-tune our strategy this week."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 20,
+      "title": "Cup Match!",
+      "description": "This weekend's game is a cup match, which means there are no second chances. Let's go out there and leave it all on the field!",
+      "owner": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "start": "2025-10-25T14:00Z",
+      "end": "2025-10-25T16:00Z",
+      "location": "Home Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Ready for the challenge!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Time to show them our cup-winning spirit."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "I'm pumped for this! Bring it on."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "No second chances? We'll make sure we don't need them."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Let's make sure we come out on top!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "This is what we've been working for. Let's get the win!"
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "I'm so excited for this!"
+          },
+          {
+            "id": 8,
+            "member": {
+              "name": "Coach Pat",
+              "type": "Coach"
+            },
+            "comment": "Just play our game, and we'll be fine."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 21,
+      "title": "Winter Futsal Session 1",
+      "description": "Our first indoor futsal practice is this Tuesday. Remember to bring trainers and your enthusiasm! We'll work on ball control in tight spaces.",
+      "owner": {
+        "name": "Coach Alex",
+        "type": "Coach"
+      },
+      "start": "2025-11-04T18:00Z",
+      "end": "2025-11-04T19:30Z",
+      "location": "The Indoor Sports Center",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Futsal is so fun! Ready for it."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "My trainers are ready to go. See you there."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "This is great for our footwork. Let's do this!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Looking forward to it, Coach!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Perfect way to stay sharp in the winter."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Excited for the change of pace. See you all soon!"
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "I love futsal! This is going to be a blast."
+          },
+          {
+            "id": 8,
+            "member": {
+              "name": "Coach Sam",
+              "type": "Coach"
+            },
+            "comment": "Good idea to focus on ball control. It will pay off in the spring."
+          },
+          {
+            "id": 9,
+            "member": {
+              "name": "Dan",
+              "type": "Coach"
+            },
+            "comment": "Sounds like a great session, Alex!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 22,
+      "title": "Team Awards Night",
+      "description": "It's time to celebrate our incredible season! Join us for a night of food, fun, and awards. We'll be recognizing MVP, Most Improved Player, and Team Player of the Year. Families are welcome!",
+      "owner": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "start": "2025-11-08T19:00Z",
+      "end": "2025-11-08T21:00Z",
+      "location": "Community Hall",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Looking forward to it! It's going to be a great night."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Excited to celebrate with the team!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "This will be a great way to wrap up the season."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Can't wait to see who wins! So many great players."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "My parents are excited to come. See you all there!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "It's going to be so much fun. Thanks for organizing!"
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "I'm so proud of what we accomplished this season!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 23,
+      "title": "Winter Futsal Session 2",
+      "description": "Another futsal session to keep our skills sharp! We'll work on quick passing and shooting from distance. Let's keep the energy high!",
+      "owner": {
+        "name": "Coach Pat",
+        "type": "Coach"
+      },
+      "start": "2025-11-12T18:00Z",
+      "end": "2025-11-12T19:30Z",
+      "location": "The Indoor Sports Center",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Sounds great! Ready for some fast-paced action."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Ready to work on my shooting!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "I love these futsal sessions. See you all soon!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Good to keep the momentum going from last session."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Ready to get better. See you all there."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "I'll be there a few minutes early to warm up."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 24,
+      "title": "Team Volunteer Day",
+      "description": "Reminder that our team volunteer day is this Saturday at the community garden. We'll be meeting at 9 AM. Don't forget your work gloves!",
+      "owner": {
+        "name": "Dan",
+        "type": "Coach"
+      },
+      "start": "2025-11-15T09:00Z",
+      "end": "2025-11-15T12:00Z",
+      "location": "Community Garden",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "I'll be there! It's a great cause."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Excited to give back to the community."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "I've got my gloves ready to go!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Sounds good! See you Saturday."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Will be there to lend a hand."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Teamwork makes the dream work, even in the garden!"
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "My whole family is coming to help!"
+          },
+          {
+            "id": 8,
+            "member": {
+              "name": "Coach Sam",
+              "type": "Coach"
+            },
+            "comment": "Fantastic. It's great to see the team engaging with the community."
+          },
+          {
+            "id": 9,
+            "member": {
+              "name": "Dan",
+              "type": "Coach"
+            },
+            "comment": "Thanks, everyone. The garden will look great after we're done!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 25,
+      "title": "Winter Futsal Session 3",
+      "description": "Let's keep up the momentum with another futsal session. We'll be focusing on small-sided games to improve decision-making and quick passes.",
+      "owner": {
+        "name": "Coach Alex",
+        "type": "Coach"
+      },
+      "start": "2025-11-18T18:00Z",
+      "end": "2025-11-18T19:30Z",
+      "location": "The Indoor Sports Center",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Small-sided games are my favorite! Looking forward to it."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Great way to improve our game sense. See you there."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "This is going to be a fun and fast-paced practice."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Ready for the challenge! This will help us so much."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "I love these futsal sessions. So much to learn."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Excited for this. See you all on Tuesday."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 26,
+      "title": "Holiday Party RSVP",
+      "description": "Please RSVP for the team holiday party by the end of this week so we can get a final headcount for food and drinks. The more the merrier!",
+      "owner": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "start": "2025-12-05T12:00Z",
+      "end": "2025-12-05T12:00Z",
+      "location": "Online",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Count me in! I've already RSVP'd."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Wouldn't miss it! Just sent my RSVP."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Looking forward to it! My family is excited too."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Sounds like fun. RSVPing now!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Great idea for a holiday get-together. I'll be there!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Can't wait to celebrate with everyone. My RSVP is in."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 27,
+      "title": "Team Holiday Party",
+      "description": "Get ready for some festive fun! We'll have food, games, and a chance to celebrate the team's achievements this year.",
+      "owner": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "start": "2025-12-13T18:00Z",
+      "end": "2025-12-13T20:00Z",
+      "location": "The Community Hall",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "This is going to be so much fun. Can't wait!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Thanks for hosting, Coach! I'll be there with bells on."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "I'm looking forward to it! See you all there."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Great way to end the year. Let's celebrate!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "So excited to hang out with everyone."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "This is going to be a blast!"
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "Ready to eat some food and have a good time!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 28,
+      "title": "Happy Holidays!",
+      "description": "Wishing all our players and their families a safe and happy holiday season. Enjoy the break, and we'll see you in the new year!",
+      "owner": {
+        "name": "Coach Pat",
+        "type": "Coach"
+      },
+      "start": "2025-12-24T18:00Z",
+      "end": "2025-12-24T18:00Z",
+      "location": "Online",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Happy holidays to you and your family too, Coach!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Merry Christmas and a happy new year, team!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Thanks, Coach! Enjoy your break as well."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Happy holidays, everyone! See you in 2026."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Best wishes to the whole team!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Hope everyone has a fantastic holiday!"
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "Have a wonderful and restful break, everyone!"
+          },
+          {
+            "id": 8,
+            "member": {
+              "name": "Dan",
+              "type": "Coach"
+            },
+            "comment": "Same to you all! Stay safe and we'll see you back on the field soon."
+          },
+          {
+            "id": 9,
+            "member": {
+              "name": "Coach Alex",
+              "type": "Coach"
+            },
+            "comment": "Looking forward to another great year with you all!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 29,
+      "title": "Spring Season Kick-off Meeting",
+      "description": "Our first team meeting for the spring season is this coming Wednesday. We'll be discussing the schedule and team goals. All players are required to attend.",
+      "owner": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "start": "2026-01-07T18:00Z",
+      "end": "2026-01-07T19:00Z",
+      "location": "Community Center Room A",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Got it! Looking forward to hearing about the new season."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Ready to get back to it. See you all on Wednesday."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Will be there! Ready to set some goals."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Happy to be back with the team."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Ready for the spring season!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "See you at the meeting, Coach."
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "I'm excited to see what we can achieve this season!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 30,
+      "title": "New Team Jerseys",
+      "description": "The new team jerseys have arrived! We'll be handing them out at our first spring practice. They look great!",
+      "owner": {
+        "name": "Dan",
+        "type": "Coach"
+      },
+      "start": "2026-01-13T11:00Z",
+      "end": "2026-01-13T11:00Z",
+      "location": "Central High School Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Awesome! Can't wait to see them."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Finally! I've been so excited for these."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "New season, new jerseys. Let's do this."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Great timing for our first friendly!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "They sound great. See you tomorrow!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Time to look sharp on the field!"
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "I can't wait to try mine on!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 31,
+      "title": "Friendly Match vs. Cobras",
+      "description": "Our first friendly match of the spring season! A great chance to dust off the cobwebs and work on our new strategies. Let's have a good time and work hard!",
+      "owner": {
+        "name": "Coach Pat",
+        "type": "Coach"
+      },
+      "start": "2026-01-18T14:00Z",
+      "end": "2026-01-18T16:00Z",
+      "location": "Cobras' Home Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "It felt great to be back on the field with you all."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Good to shake off the rust. We looked strong!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "The new plays worked really well. Good job, team."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Excited for the rest of the season after that performance."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Felt good to play. Great game everyone!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "It was a fantastic team effort!"
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "I'm so proud of how we played."
+          },
+          {
+            "id": 8,
+            "member": {
+              "name": "Coach Sam",
+              "type": "Coach"
+            },
+            "comment": "We've set a good tone for the season. Let's keep it up!"
+          },
+          {
+            "id": 9,
+            "member": {
+              "name": "Dan",
+              "type": "Coach"
+            },
+            "comment": "That was a great match to watch. Promising stuff!"
+          },
+          {
+            "id": 10,
+            "member": {
+              "name": "Coach Alex",
+              "type": "Coach"
+            },
+            "comment": "The new drills paid off, the passing was excellent."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 32,
+      "title": "First League Game!",
+      "description": "The real season is here! We are kicking off the league season at home this weekend. Let's get out there and show them what we're all about. Be there early and ready to go!",
+      "owner": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "start": "2026-01-25T14:00Z",
+      "end": "2026-01-25T16:00Z",
+      "location": "Home Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "So ready for this! Let's start the season strong."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "I'm pumped! See you all Saturday."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Let's make our home field a fortress!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Ready to get those three points!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Let's show them what we've been working on."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Game on! I'll be there early."
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "So excited for our first official game!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 33,
+      "title": "Weekly Practice: Positional Drills",
+      "description": "We're going to focus on positional play and roles within our formation. We'll work on understanding our responsibilities on the field and creating space for our teammates.",
+      "owner": {
+        "name": "Coach Alex",
+        "type": "Coach"
+      },
+      "start": "2026-01-27T18:00Z",
+      "end": "2026-01-27T19:30Z",
+      "location": "Central High School Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Good idea, I'm ready to learn more about my position."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "This will help our teamwork a lot. I'll be there!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Perfect, this is a key part of our strategy."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Ready to get better at my role."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Can't wait to work on this! See you soon."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Excited for this session!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 34,
+      "title": "Looking for Volunteers",
+      "description": "We're looking for volunteers to help with the snack bar during home games. If you or a family member can help out, please let me know!",
+      "owner": {
+        "name": "Dan",
+        "type": "Coach"
+      },
+      "start": "2026-02-02T12:00Z",
+      "end": "2026-02-02T12:00Z",
+      "location": "Online",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "My mom said she'd be happy to help!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "I can help with set-up before the game."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "My dad is a great cook, he can help out with the BBQ."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "My sister loves helping out. I'll ask her."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "I can help with cleanup after the game. Count me in!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Dan",
+              "type": "Coach"
+            },
+            "comment": "Thanks so much, everyone! I'll put you on the schedule."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 35,
+      "title": "Home Game vs. Tigers",
+      "description": "Another crucial home game this weekend! The Tigers are tough, but we have the skill and teamwork to get the job done. Let's make it count!",
+      "owner": {
+        "name": "Coach Pat",
+        "type": "Coach"
+      },
+      "start": "2026-02-08T14:00Z",
+      "end": "2026-02-08T16:00Z",
+      "location": "Home Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Ready for a big game! Go team!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "I'll be there early. Let's get the win!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "We've been training hard for this. Let's show them what we've got."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Ready to leave it all on the field."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "I'm pumped for this! See you all Saturday."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Let's go, team! We can do it!"
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "I've been looking forward to this match!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 36,
+      "title": "Game Recap: Victory!",
+      "description": "What an outstanding performance! Our team showed incredible resilience and teamwork to secure the win. Every player contributed, and that's what a winning team is all about.",
+      "owner": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "start": "2026-02-10T10:00Z",
+      "end": "2026-02-10T10:00Z",
+      "location": "Online",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "It was a total team effort! So proud of everyone."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "That was an unforgettable game! We played our hearts out."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "I'm still buzzing from that win! Great job, team."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "What a performance! So happy with the result."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "We never gave up! That's the most important part."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Awesome to see our hard work pay off!"
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "This is what it feels like to win together. Let's keep it going!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 37,
+      "title": "Weekly Practice: Team Building",
+      "description": "This week's practice will be focused on team building exercises and non-football activities to strengthen our bond as a team. Come ready to have some fun and get to know each other better!",
+      "owner": {
+        "name": "Coach Alex",
+        "type": "Coach"
+      },
+      "start": "2026-02-17T18:00Z",
+      "end": "2026-02-17T19:30Z",
+      "location": "Central High School Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Great idea! Team chemistry is so important."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "I'm excited for this. Sounds like a good time."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Team that plays together, stays together!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Looking forward to it! See you there."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "I'll be there a few minutes early. Can't wait!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "This is a great idea. Thanks, Coach!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 38,
+      "title": "Away Game vs. Panthers",
+      "description": "Another challenging game on the road! Let's be prepared for a tough fight and play our game. We will meet at the Central High School parking lot for carpooling.",
+      "owner": {
+        "name": "Coach Pat",
+        "type": "Coach"
+      },
+      "start": "2026-02-22T10:00Z",
+      "end": "2026-02-22T12:00Z",
+      "location": "Panthers' Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "I can take 4 people in my car!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "I need a ride. Thanks, Morgan!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Let's make sure we're focused for this one. It's a big game."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "See you all at the parking lot! Let's get the win!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Ready for another game on the road!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Ready to show them what we're made of!"
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "I'll be there to support from the sidelines! Injured my ankle slightly."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 39,
+      "title": "Fundraiser Update",
+      "description": "A huge thank you to everyone who came out to our team carwash fundraiser. We're well on our way to our goal for new equipment!",
+      "owner": {
+        "name": "Dan",
+        "type": "Coach"
+      },
+      "start": "2026-02-24T10:00Z",
+      "end": "2026-02-24T10:00Z",
+      "location": "Online",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "It was a great event! So happy to see the team coming together for a good cause."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Awesome! Thanks for all your hard work organizing it, Dan."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Glad we could contribute! Can't wait for the new gear."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Great to hear we're close to our goal!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "The cars are sparkling!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "It was a fun time for everyone. Good job, team!"
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "It was a great day to get together outside of practice."
+          },
+          {
+            "id": 8,
+            "member": {
+              "name": "Coach Sam",
+              "type": "Coach"
+            },
+            "comment": "A great way to show our community what a great group we have."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 40,
+      "title": "Weekly Practice: Goalie Drills",
+      "description": "We will have a specific focus on goalkeeper training this week. The rest of the team will work on crossing and finishing. Let's make sure our keeper is in top form!",
+      "owner": {
+        "name": "Coach Alex",
+        "type": "Coach"
+      },
+      "start": "2026-02-25T18:00Z",
+      "end": "2026-02-25T19:30Z",
+      "location": "Central High School Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "This is a key practice for me! Thanks, Coach."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Ready to get some shots on goal!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "This is great. We need to work on finishing."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "See you all at practice. I'll be ready to defend the goal!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Let's make sure our keeper is ready for anything."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Looking forward to this. See you soon."
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Coach Pat",
+              "type": "Coach"
+            },
+            "comment": "A good keeper is crucial. Let's make this a productive session for Jordan."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 41,
+      "title": "Home Game vs. Sharks",
+      "description": "This weekend we face the Sharks at home! They are known for their fast counter-attacks, so we'll need to be organized and ready to defend as a team.",
+      "owner": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "start": "2026-03-01T14:00Z",
+      "end": "2026-03-01T16:00Z",
+      "location": "Home Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "We can handle them. Ready for the challenge."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "I'm ready to defend! Let's go!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Our defense has been so strong. We can do this."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "This is a big game. We need to stay focused."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Let's show them what we're made of!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "I'll be there a few minutes early. Ready to play."
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "We'll be organized and ready!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 42,
+      "title": "Practice Canceled",
+      "description": "Due to a scheduling conflict with the field, tonight's practice is canceled. We'll be back at it on Wednesday. My apologies!",
+      "owner": {
+        "name": "Coach Alex",
+        "type": "Coach"
+      },
+      "start": "2026-03-03T16:30Z",
+      "end": "2026-03-03T16:30Z",
+      "location": "Online",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "No worries, Coach. Thanks for the notice."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Got it. I'll get some extra work in on my own."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Thanks for letting us know so quickly."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "No problem! We'll be ready for Wednesday."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Good call, thanks!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Understood. See you all Wednesday."
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "More time to rest up for the next practice."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 43,
+      "title": "Weekly Practice: All-Out Scrimmage",
+      "description": "This is our last practice before the final games of the season. We'll have an intense scrimmage to prepare for the final push. Be ready to give it your all!",
+      "owner": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "start": "2026-03-08T18:00Z",
+      "end": "2026-03-08T19:30Z",
+      "location": "Central High School Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Ready for the final push! Let's go!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "This is what it's all about. Ready to play."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Looking forward to a competitive practice."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "I'm ready to prove myself. See you all there."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Let's leave it all on the field!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Sounds like a great practice. Let's do this!"
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "I'm so excited for the last few games of the season!"
+          },
+          {
+            "id": 8,
+            "member": {
+              "name": "Coach Alex",
+              "type": "Coach"
+            },
+            "comment": "Let's make sure we're focused and ready for this last stretch."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 44,
+      "title": "Home Game vs. Knights",
+      "description": "This is our final home game of the season. Let's make sure we bring our best and give the fans a great send-off.",
+      "owner": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "start": "2026-03-14T14:00Z",
+      "end": "2026-03-14T16:00Z",
+      "location": "Home Field",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Ready to go out with a bang!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Let's make this a game to remember."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "We've got to win this one for our fans."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Bring on the Knights! We're ready."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "I'm feeling good about this game. Let's get it!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "See you all at the field on Saturday. Let's go!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 45,
+      "title": "Lost Item: Water Bottle",
+      "description": "I think I left my water bottle at the field after practice. It's a blue stainless steel one with a sticker on it. If anyone finds it, please let me know!",
+      "owner": {
+        "name": "Riley",
+        "type": "Member"
+      },
+      "start": "2026-03-18T09:00Z",
+      "end": "2026-03-18T09:00Z",
+      "location": "Online",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "I saw a blue water bottle by the bench. I'll grab it next time I'm there."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Awesome, thanks Chris!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Hope you find it, Riley!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Let us know if you still can't find it."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "I'll keep an eye out for it too."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "I saw it. It's safe in the lost and found box."
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "Glad someone found it for you!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 46,
+      "title": "Season Review Meeting",
+      "description": "Reminder that our season review meeting is this Wednesday. We'll discuss what worked well and what we can improve on for next season. Your input is important!",
+      "owner": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "start": "2026-03-25T17:00Z",
+      "end": "2026-03-25T18:00Z",
+      "location": "Community Center Room A",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "I have some thoughts. I'll be there!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Thanks for the reminder. See you Wednesday."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Looking forward to talking about the season."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Ready to discuss. It's a great way to improve for next season."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "I'll be there to contribute my thoughts."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Thanks, Coach. I'll be there."
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "This is a really important meeting. Looking forward to it."
+          },
+          {
+            "id": 8,
+            "member": {
+              "name": "Coach Pat",
+              "type": "Coach"
+            },
+            "comment": "We want to hear from everyone. Your feedback is valuable."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 47,
+      "title": "Team Tryouts Announced",
+      "description": "We will be holding tryouts for next season on April 15. More details on the tryout process and registration will be posted soon.",
+      "owner": {
+        "name": "Dan",
+        "type": "Coach"
+      },
+      "start": "2026-03-31T12:00Z",
+      "end": "2026-03-31T12:00Z",
+      "location": "Online",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Excited to see who joins the team!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Good to have a date. I'll be ready."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Looking forward to another great season."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "I'm ready to come back even stronger next year."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Awesome! I'll tell my friends about it."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Great! Thanks for the heads up."
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "Can't wait to meet some new teammates!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 48,
+      "title": "Looking for a Training Partner",
+      "description": "Anyone interested in getting some extra training in over the break? I'm looking for a partner to work on passing and shooting drills.",
+      "owner": {
+        "name": "Chris",
+        "type": "Member"
+      },
+      "start": "2026-04-02T10:00Z",
+      "end": "2026-04-02T10:00Z",
+      "location": "Online",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "I'm in! Let's get a session in next week."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Sounds good, Jordan! I'll message you to set a time."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "I might be able to join one day too!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "I'm away for the break, but I'll catch you guys after."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Great initiative, Chris!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Let's all get some extra work in!"
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "Good idea, Chris. I'll get my own drills in."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 49,
+      "title": "Cup Final!",
+      "description": "We've made it to the Cup Final! This is the game we've been working toward all season. Let's leave it all out on the field and bring home the trophy!",
+      "owner": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "start": "2026-04-08T18:00Z",
+      "end": "2026-04-08T20:00Z",
+      "location": "City Championship Stadium",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Cup Final! This is incredible! Let's get the win!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "I've already bought my tickets for my whole family. Let's go!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "This is a dream come true. Let's win it all!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Our hard work has paid off. One last push!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "I can't wait to play in the final. Let's do this!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "So excited! I'll tell all my friends and family to come."
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "This is going to be the biggest game of our lives!"
+          },
+          {
+            "id": 8,
+            "member": {
+              "name": "Coach Alex",
+              "type": "Coach"
+            },
+            "comment": "Let's make sure we're prepared, physically and mentally."
+          },
+          {
+            "id": 9,
+            "member": {
+              "name": "Dan",
+              "type": "Coach"
+            },
+            "comment": "So proud to see how far we've come!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 50,
+      "title": "Good Luck!",
+      "description": "Good luck to all the players heading to the Spring Break Tournament. Go out there and have fun, and bring home the trophy!",
+      "owner": {
+        "name": "Coach Pat",
+        "type": "Coach"
+      },
+      "start": "2026-04-10T09:00Z",
+      "end": "2026-04-10T09:00Z",
+      "location": "Online",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Thanks, Coach! We'll do our best."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Let's bring home the win! Thank you for your support."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Tournament time! Let's have some fun."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "This is going to be a great experience. We're ready!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Ready for some intense games. Good luck, team!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Thanks for the good luck wishes! We're gonna need it."
+          },
+          {
+            "id": 7,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "Let's go, team! We can do it!"
+          },
+          {
+            "id": 8,
+            "member": {
+              "name": "Coach Sam",
+              "type": "Coach"
+            },
+            "comment": "Have fun and play your hearts out!"
+          }
+        ],
+        "enabled": true
+      }
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Motivational Message",
+      "description": "Great job, team! I want to take a moment to recognize everyone’s hard work and dedication at practice this week. Each of you has shown tremendous effort and a willingness to improve, which truly makes a difference for the whole group. Let’s keep encouraging and supporting one another, both on and off the field. Remember, our strength lies in our unity and teamwork—when we work together, we can achieve so much more. Keep up the fantastic work, stay positive, and let’s continue striving for our goals. See you all at the next session, ready to give it your all!",
+      "author": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "pubdate": "2025-08-30T10:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Thanks, Coach! Feeling motivated for next week."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Love this team spirit! Proud to be part of the group."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Coach Sam",
+              "type": "Coach"
+            },
+            "comment": "You all make me proud—let’s keep up the great work!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Ready to give 110% at the next practice!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "That's why we're the best team. Unity!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Great message, Coach. Let's get that win next game."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 2,
+      "title": "Practice Postponed",
+      "description": "Due to the heavy rain and unplayable field conditions, tonight's practice is canceled. Stay safe and dry. We'll see you all at the next session on Thursday.",
+      "author": {
+        "name": "Coach Alex",
+        "type": "Coach"
+      },
+      "pubdate": "2025-09-02T16:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Bummer! Thanks for the heads up, Coach."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Good call, the field was looking rough."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Stay dry everyone! See you Thursday."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Time for some extra video analysis then!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Makes sense. Be safe everyone!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Will do some solo drills at home. See ya Thursday!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 3,
+      "title": "Game Day Prep",
+      "description": "Just a reminder that our home game against the Wildcats is this Saturday. Please be at the field by 1:15 PM for warm-ups. We're expecting a large crowd, so let's put on a great show!",
+      "author": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "pubdate": "2025-09-04T18:30Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Can't wait! Feeling ready."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "I'm bringing my family to watch!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Pumped for this! Let's get the win!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "See you all there. We've got this."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "So excited to play in front of a big crowd."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Coach Sam",
+              "type": "Coach"
+            },
+            "comment": "Great to hear the enthusiasm, team. Let's bring it on Saturday!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 4,
+      "title": "Player of the Match!",
+      "description": "A huge shoutout to Alex for his incredible performance in Saturday's game. His two goals and tireless work rate were a game-changer. Congratulations, Alex!",
+      "author": {
+        "name": "Coach Pat",
+        "type": "Coach"
+      },
+      "pubdate": "2025-09-07T09:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Thanks, Coach! Couldn't have done it without the team."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Well deserved, bro! Great game."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "You were on fire, Alex! Congrats!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Awesome work, Alex. Keep it up!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "You're a machine! Congrats on the award."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Two goals! What a performance. Congrats!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 5,
+      "title": "Photo Gallery: Team BBQ",
+      "description": "The photos from our end-of-season BBQ are now live! Head to the media section of the app to check them out. Thanks again to everyone who came out!",
+      "author": {
+        "name": "Dan",
+        "type": "Coach"
+      },
+      "pubdate": "2025-09-09T17:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Looks like we had a great time!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Thanks for organizing! The food was great."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Great photos! A perfect way to celebrate the season."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Love seeing everyone relax and have fun off the field."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "So many good memories in those pictures!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Dan",
+              "type": "Coach"
+            },
+            "comment": "Glad you all enjoyed it! Let's do it again soon."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 6,
+      "title": "Lost and Found",
+      "description": "Did anyone lose a black Nike jacket at practice on Tuesday? I found it and left it in the lost and found box at the clubhouse. Let me know if it's yours!",
+      "author": {
+        "name": "Jamie",
+        "type": "Member"
+      },
+      "pubdate": "2025-09-11T12:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "That's mine! I'll grab it next practice. Thanks, Jamie!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Jamie",
+              "type": "Member"
+            },
+            "comment": "No problem! Glad you found it."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Good looking out, Jamie!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Teamwork on and off the field!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "I saw that jacket lying there. Nice one, Jamie."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Coach Sam",
+              "type": "Coach"
+            },
+            "comment": "Excellent team spirit, Jamie. Thanks for helping out."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 7,
+      "title": "Away Game: Carpool Plan",
+      "description": "For our away game on Saturday, we'll be organizing carpools. If you need a ride or can offer one, please comment below with how many spots you have. We'll finalize the plan by Friday night.",
+      "author": {
+        "name": "Coach Pat",
+        "type": "Coach"
+      },
+      "pubdate": "2025-09-12T10:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "I have 3 spots available."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "I need a ride please, Morgan!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "I can take 2 people in my car."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Thanks, Jordan. Can I get one of those spots?"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Coach Pat",
+              "type": "Coach"
+            },
+            "comment": "This is great. Please coordinate directly now. Thanks for helping out, everyone!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "I can also offer a ride for 2. Let me know if anyone still needs one."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 8,
+      "title": "Good Luck to our Injured Players",
+      "description": "We're missing a few key players this week due to injuries. Let's send them some good vibes and wish them a speedy recovery. We'll be playing for you this weekend!",
+      "author": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "pubdate": "2025-09-14T19:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Thanks, Coach! Hope to be back soon."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Get well soon, guys! We'll miss you on the field."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Sending positive vibes. Take care of yourselves!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "We'll do our best to get the win for you all!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Hope you feel better soon!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "See you back at practice soon!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 9,
+      "title": "Game Highlights",
+      "description": "Check out the highlights from our last match! We've uploaded a short clip to the media section. Some great saves and goals in there!",
+      "author": {
+        "name": "Dan",
+        "type": "Coach"
+      },
+      "pubdate": "2025-09-17T11:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Loved watching those goals again! So well executed."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "That save by Alex was insane!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "So good to see the team's hard work pay off."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "I'm still buzzing from that win!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Looks like we're really coming together as a team."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Dan",
+              "type": "Coach"
+            },
+            "comment": "Glad you all enjoyed the highlights! Let's keep making more!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 10,
+      "title": "Weekly Practice Plan",
+      "description": "Just a heads up on what we'll be focusing on this week: Tuesday will be defensive strategy, and Thursday will be set pieces. Come prepared to work hard and learn!",
+      "author": {
+        "name": "Coach Alex",
+        "type": "Coach"
+      },
+      "pubdate": "2025-09-19T09:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Sounds like a productive week. See you there!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Ready to work on my defending."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "I've been wanting to improve on set pieces. Perfect!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Good plan, Coach. See you on Tuesday."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Ready to learn and get better."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Great, thanks for the heads-up!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 11,
+      "title": "Team Photo Reminder",
+      "description": "Don't forget we have our official team photo session this coming Monday at 5 PM. Please wear your full home kit and be on time!",
+      "author": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "pubdate": "2025-09-26T16:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Got it! Time to iron the jersey."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Can't wait to see how it turns out!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Will be there!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Looking forward to it. Thanks for the reminder."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "My kit is clean and ready to go!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Will be there a few minutes early."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 12,
+      "title": "Team Social Tonight!",
+      "description": "Looking forward to seeing everyone at my place for pizza and the game tonight at 7 PM. Let's have some fun and relax!",
+      "author": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "pubdate": "2025-09-21T15:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Thanks, Coach! Be there soon."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Pizza and football? What's not to love! See you there."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Looking forward to it! Bringing a dessert."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "This sounds awesome! See you at 7."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "On my way! Can't wait."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Perfect way to unwind after a tough week."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 13,
+      "title": "New Drills!",
+      "description": "We've got some new drills for tomorrow's practice. They are designed to improve our passing and movement off the ball. It's going to be a fun and challenging session!",
+      "author": {
+        "name": "Coach Alex",
+        "type": "Coach"
+      },
+      "pubdate": "2025-09-22T17:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Sounds great! Ready for the new challenge."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "I'm excited to try these. See you tomorrow!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Perfect, that's exactly what we need to work on."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Hope we get to do some shooting drills too!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Looking forward to it! Sounds like a good session."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Let's work hard and make this a great practice."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 14,
+      "title": "Looking for Goalkeeper Gloves",
+      "description": "My gloves got a tear in them. Does anyone have a spare pair of goalkeeper gloves I can borrow for the match on Saturday? Or any recommendations for a new pair?",
+      "author": {
+        "name": "Jordan",
+        "type": "Member"
+      },
+      "pubdate": "2025-09-24T10:30Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "I have an old pair you can use for the match."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Thank you so much, Alex! You're a lifesaver."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "I've heard good things about the Puma gloves. They are durable."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Check out the new Adidas ones, they have great grip."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Coach Sam",
+              "type": "Coach"
+            },
+            "comment": "If you can't find a pair, let me know and I'll bring a spare from the club."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Let us know if you need any help looking for new ones."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 15,
+      "title": "Thank you!",
+      "description": "Thank you to all the parents and volunteers who helped out with the concession stand at our last home game. Your support is what makes this team great!",
+      "author": {
+        "name": "Dan",
+        "type": "Coach"
+      },
+      "pubdate": "2025-09-27T18:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "My mom said it was a lot of fun to help out!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "The concession stand was a huge success. Thanks to everyone who helped."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Our parents are the best!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "It's so great to have such a supportive community."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Couldn't do it without them."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Dan",
+              "type": "Coach"
+            },
+            "comment": "Indeed! Let's keep working together as a team on and off the field."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 16,
+      "title": "Finals are Coming!",
+      "description": "With just a few games left in the season, every match counts. Let's dig deep, work together, and finish strong. Your dedication will pay off!",
+      "author": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "pubdate": "2025-10-01T10:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Ready to leave it all on the field."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "We've got this, team!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Let's focus and get those wins."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Time to show them what we're made of."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "All in for the finals push!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "One game at a time. Let's do this!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 17,
+      "title": "Field Location Change",
+      "description": "Due to a last-minute conflict, tomorrow's practice will be held at the Community Park Field instead of Central High School. See you there!",
+      "author": {
+        "name": "Coach Alex",
+        "type": "Coach"
+      },
+      "pubdate": "2025-10-03T16:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Thanks for the heads up!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Got it. See you at the new location."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Thanks, Coach! Will update my GPS."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Okay, sounds good!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Community Park it is. See you all soon."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "No problem! Thanks for letting us know."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 18,
+      "title": "Match Report: We won!",
+      "description": "What a game! We came back from a goal down to win 3-2. A true testament to your spirit and determination. Every single one of you played your heart out.",
+      "author": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "pubdate": "2025-10-04T18:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Amazing win, team! So proud."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "We never gave up! Great teamwork."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "What a comeback! Let's carry this momentum forward."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "That's what makes this team special. We fight for every ball."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "I'm so proud to be on this team!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Unforgettable game! Let's keep it going."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 19,
+      "title": "Need a Ride to the Away Game",
+      "description": "Hey guys, my car broke down. Would anyone be able to give me a lift to the away game on Saturday?",
+      "author": {
+        "name": "Chris",
+        "type": "Member"
+      },
+      "pubdate": "2025-10-09T11:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Hey Chris, I have a spot in my car. DM me for details!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Thanks, Casey, you're a legend!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Let me know if you still need a ride, Chris. I can help too."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Hope your car is an easy fix, Chris!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Let's all help each other out! That's what a team is for."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Coach Sam",
+              "type": "Coach"
+            },
+            "comment": "Great to see the team helping each other out. Thanks, Casey and Morgan!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 20,
+      "title": "Team Awards",
+      "description": "It's time to start thinking about our end-of-season awards. We have categories for MVP, Most Improved Player, and Team Player of the Year. Let me know your nominations!",
+      "author": {
+        "name": "Dan",
+        "type": "Coach"
+      },
+      "pubdate": "2025-10-12T14:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "I nominate Alex for MVP! He's been on fire all season."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "I think Chris deserves Most Improved. He's really stepped up this year."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "I'm voting for Casey for Team Player of the Year. Always so positive and hardworking."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "I'd like to nominate Jordan for his consistent performance in defense. He's a rock."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Thanks, Riley! I nominate Morgan for her amazing assists."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "I nominate the coaches for Coach of the Year!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 21,
+      "title": "Last Home Game!",
+      "description": "This Saturday is our final home game of the season. Let's make sure we bring our best and give the fans a great send-off.",
+      "author": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "pubdate": "2025-10-15T18:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Ready to go out with a bang!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Let's make this a game to remember."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "We've got to win this one for our fans."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Bring on the Knights! We're ready."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "I'm feeling good about this game. Let's get it!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "See you all at the field on Saturday. Let's go!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 22,
+      "title": "Training with the Pros!",
+      "description": "We've been given a fantastic opportunity to attend a training session with the city's professional team! This will be a great learning experience. More details to follow.",
+      "author": {
+        "name": "Coach Alex",
+        "type": "Coach"
+      },
+      "pubdate": "2025-10-20T10:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "That's so cool! I can't wait."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "This is an amazing opportunity! Thank you, coaches!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "This is going to be a dream come true."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "I'm going to take so many notes!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "I hope we get to meet the players!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "This is awesome! Thanks for organizing this."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 23,
+      "title": "Season Wrap-up",
+      "description": "What an incredible season it has been! I am so proud of how far we've come as a team. Let's celebrate our achievements and look forward to what's next. See you all at the awards night!",
+      "author": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "pubdate": "2025-10-26T16:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "It's been an amazing season. So proud of us all."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Thanks, Coach! It's been so much fun."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "We grew so much this season. Can't wait for the next one."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Looking forward to celebrating with everyone at the awards night!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Proud to be a part of this team."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "It's been a truly memorable season. See you at the dinner!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 24,
+      "title": "First Winter Practice",
+      "description": "Our first indoor futsal practice is this Tuesday. Remember to bring trainers and your enthusiasm! We'll work on ball control in tight spaces.",
+      "author": {
+        "name": "Coach Alex",
+        "type": "Coach"
+      },
+      "pubdate": "2025-11-02T19:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Futsal is so fun! Ready for it."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "My trainers are ready to go. See you there."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "This is great for our footwork. Let's do this!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Looking forward to it, Coach!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Perfect way to stay sharp in the winter."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Excited for the change of pace. See you all soon!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 25,
+      "title": "Team Volunteer Day Details",
+      "description": "Reminder that our team volunteer day is this Saturday at the community garden. We'll be meeting at 9 AM. Don't forget your work gloves!",
+      "author": {
+        "name": "Dan",
+        "type": "Coach"
+      },
+      "pubdate": "2025-11-13T10:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "I'll be there! It's a great cause."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Excited to give back to the community."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "I've got my gloves ready to go!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Sounds good! See you Saturday."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Will be there to lend a hand."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Teamwork makes the dream work, even in the garden!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 26,
+      "title": "Holiday Party RSVP",
+      "description": "Please RSVP for the team holiday party by the end of this week so we can get a final headcount for food and drinks. The more the merrier!",
+      "author": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "pubdate": "2025-12-05T12:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Count me in! I've already RSVP'd."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Wouldn't miss it! Just sent my RSVP."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Looking forward to it! My family is excited too."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Sounds like fun. RSVPing now!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Great idea for a holiday get-together. I'll be there!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Can't wait to celebrate with everyone. My RSVP is in."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 27,
+      "title": "Winter Training Schedule",
+      "description": "Our winter training schedule has been posted. It's optional, but a great way to stay fit and sharp during the break. Hope to see you there!",
+      "author": {
+        "name": "Coach Alex",
+        "type": "Coach"
+      },
+      "pubdate": "2025-12-20T09:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Thanks, Coach! I'll be there."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Perfect for staying in shape over the holidays."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "It's optional but it's a great opportunity."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "I'll be there for a couple of sessions for sure."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "I'll try to make it to a few. Thanks!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Sounds like a plan. See you soon!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 28,
+      "title": "Happy Holidays!",
+      "description": "Wishing all our players and their families a safe and happy holiday season. Enjoy the break, and we'll see you in the new year!",
+      "author": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "pubdate": "2025-12-24T18:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Happy holidays to you and your family too, Coach!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Merry Christmas and a happy new year, team!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Thanks, Coach! Enjoy your break as well."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Happy holidays, everyone! See you in 2026."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Best wishes to the whole team!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Hope everyone has a fantastic holiday!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 29,
+      "title": "Spring Season Kick-off Meeting",
+      "description": "Our first team meeting for the spring season is this coming Wednesday. We'll be discussing the schedule and team goals. All players are required to attend.",
+      "author": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "pubdate": "2026-01-05T10:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Got it! Looking forward to hearing about the new season."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Ready to get back to it. See you all on Wednesday."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Will be there! Ready to set some goals."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Happy to be back with the team."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Ready for the spring season!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "See you at the meeting, Coach."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 30,
+      "title": "New Team Jerseys",
+      "description": "The new team jerseys have arrived! We'll be handing them out at practice tomorrow. They look great!",
+      "author": {
+        "name": "Dan",
+        "type": "Coach"
+      },
+      "pubdate": "2026-01-13T11:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Awesome! Can't wait to see them."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Finally! I've been so excited for these."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "New season, new jerseys. Let's do this."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Great timing for our first friendly!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "They sound great. See you tomorrow!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Time to look sharp on the field!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 31,
+      "title": "Friendly Match Recap",
+      "description": "Our friendly match against the Cobras was a great start to the year. We played some beautiful football and showed great promise for the upcoming season.",
+      "author": {
+        "name": "Coach Pat",
+        "type": "Coach"
+      },
+      "pubdate": "2026-01-18T17:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "It felt great to be back on the field with you all."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Good to shake off the rust. We looked strong!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "The new plays worked really well. Good job, team."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Excited for the rest of the season after that performance."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Felt good to play. Great game everyone!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "It was a fantastic team effort!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 32,
+      "title": "Home Game This Weekend!",
+      "description": "We are kicking off the league season at home this weekend! Let's get out there and show them what we're all about. Be there early and ready to go!",
+      "author": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "pubdate": "2026-01-23T18:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "So ready for this! Let's start the season strong."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "I'm pumped! See you all Saturday."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Let's make our home field a fortress!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Ready to get those three points!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Let's show them what we've been working on."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Game on! I'll be there early."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 33,
+      "title": "Team Photo Order",
+      "description": "The team photos are ready to be ordered. You can find the link in the documents section of the app. Please place your order by Feb 15.",
+      "author": {
+        "name": "Dan",
+        "type": "Coach"
+      },
+      "pubdate": "2026-01-29T10:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Just ordered mine! They look great."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Got it! Thanks for letting us know."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Perfect! I was just wondering when these would be ready."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "I'll make sure to get my order in before the deadline."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Awesome! I'll tell my parents to order a copy."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Thanks for the reminder. I'll check it out."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 34,
+      "title": "Looking for Volunteers",
+      "description": "We're looking for volunteers to help with the snack bar during home games. If you or a family member can help out, please let me know!",
+      "author": {
+        "name": "Dan",
+        "type": "Coach"
+      },
+      "pubdate": "2026-02-02T12:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "My mom said she'd be happy to help!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "I can help with set-up before the game."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "My dad is a great cook, he can help out with the BBQ."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "My sister loves helping out. I'll ask her."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "I can help with cleanup after the game. Count me in!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Dan",
+              "type": "Coach"
+            },
+            "comment": "Thanks so much, everyone! I'll put you on the schedule."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 35,
+      "title": "New Practice Time",
+      "description": "Starting next week, our practice time will be moved up by 30 minutes to accommodate for a new indoor booking. Please make a note of the change. The new time is 6:30 PM.",
+      "author": {
+        "name": "Coach Alex",
+        "type": "Coach"
+      },
+      "pubdate": "2026-02-05T15:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Got it. Thanks for the update!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Noted. See you all at 6:30."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Sounds good to me!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Will be there! Thanks."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Understood. Thanks, Coach."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "No problem! I'll make sure to be there on time."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 36,
+      "title": "Bowling Night Tonight!",
+      "description": "Just a reminder that we have our team bowling night tonight at 7 PM. See you all there!",
+      "author": {
+        "name": "Dan",
+        "type": "Coach"
+      },
+      "pubdate": "2026-02-10T16:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Looking forward to it! My bowling skills are a little rusty."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "I'm ready for a fun night out with the team!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "See you there! Let the games begin."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Can't wait! See you all tonight."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Sounds like a great time. On my way!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Perfect way to unwind from the last game."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 37,
+      "title": "Great Team Effort!",
+      "description": "Despite a tough loss this weekend, I was so impressed with our team's effort and fighting spirit. We never gave up and that's what's most important.",
+      "author": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "pubdate": "2026-02-16T10:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "We fought hard until the end. I'm proud of our effort."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Thanks, Coach. We'll get them next time!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "It was a tough game, but we showed real heart."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "That's the spirit. We learn from this and get better."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "We'll keep our heads up and move forward."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Always proud to be a part of this team."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 38,
+      "title": "Game Day Itinerary",
+      "description": "For this weekend's home game, please be at the field by 2:15 PM for pre-match warm-ups and strategy session. Let's get our heads in the game early!",
+      "author": {
+        "name": "Coach Pat",
+        "type": "Coach"
+      },
+      "pubdate": "2026-02-20T17:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Got it! See you there."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Understood. Ready to focus on the game."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Perfect. Thanks for the details."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "On my way! Let's get this win."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Will be there on time."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Ready for some pre-game talk!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 39,
+      "title": "Fundraiser Update",
+      "description": "A huge thank you to everyone who came out to our team BBQ and fundraiser. We're well on our way to our goal for new equipment!",
+      "author": {
+        "name": "Dan",
+        "type": "Coach"
+      },
+      "pubdate": "2026-03-01T10:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "It was a great event! So happy to see the team coming together for a good cause."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Awesome! Thanks for all your hard work organizing it, Dan."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Glad we could contribute! Can't wait for the new gear."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Great to hear we're close to our goal!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "The food was delicious too!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "It was a fun time for everyone. Good job, team!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 40,
+      "title": "Cup Match!",
+      "description": "This weekend's game is a cup match, which means there are no second chances. Let's go out there and leave it all on the field!",
+      "author": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "pubdate": "2026-03-06T19:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Ready for the challenge!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Time to show them our cup-winning spirit."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "I'm pumped for this! Bring it on."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "No second chances? We'll make sure we don't need them."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Let's make sure we come out on top!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "This is what we've been working for. Let's get the win!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 41,
+      "title": "Practice Canceled",
+      "description": "Due to a scheduling conflict with the field, tonight's practice is canceled. We'll be back at it on Wednesday. My apologies!",
+      "author": {
+        "name": "Coach Alex",
+        "type": "Coach"
+      },
+      "pubdate": "2026-03-10T16:30Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "No worries, Coach. Thanks for the notice."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Got it. I'll get some extra work in on my own."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Thanks for letting us know so quickly."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "No problem! We'll be ready for Wednesday."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Good call, thanks!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Understood. See you all Wednesday."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 42,
+      "title": "Game Photos",
+      "description": "The photos from our last match are now up! You can find them in the media section of the app. Feel free to share!",
+      "author": {
+        "name": "Dan",
+        "type": "Coach"
+      },
+      "pubdate": "2026-03-16T11:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Love these! They captured some great moments."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Awesome shots! Thanks for sharing."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Great memories to have!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "I'm saving all of these to my phone!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Thanks so much for taking these photos!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "My parents will love these!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 43,
+      "title": "Final Push!",
+      "description": "We've got two games left in the season and we're fighting for a playoff spot. Let's bring our absolute best to these last two matches!",
+      "author": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "pubdate": "2026-03-20T10:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "This is what we've been working for! Let's get it."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Playoffs or bust! Ready to give it my all."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "One game at a time. Let's focus and win."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Ready for the final push!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "We've got the talent and the teamwork. Let's go!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "I'm so excited for these last two games. We can do it!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 44,
+      "title": "Playoff Bound!",
+      "description": "We did it! We've clinched a spot in the playoffs with that win this weekend. Every single one of you deserves this. Now let's get ready for the next challenge!",
+      "author": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "pubdate": "2026-03-23T18:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "YES! So proud of this team. We earned it."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Unbelievable! This is so exciting!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Playoffs, here we come! What a victory."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "All that hard work paid off. Let's keep it going!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "So ready for the next challenge. Let's go win the whole thing!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "This is what it's all about. So proud of us all!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 45,
+      "title": "Lost Item: Water Bottle",
+      "description": "I think I left my water bottle at the field after practice. It's a blue stainless steel one with a sticker on it. If anyone finds it, please let me know!",
+      "author": {
+        "name": "Riley",
+        "type": "Member"
+      },
+      "pubdate": "2026-03-26T09:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "I saw a blue water bottle by the bench. I'll grab it next time I'm there."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Awesome, thanks Chris!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Hope you find it, Riley!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Let us know if you still can't find it."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "I'll keep an eye out for it too."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "I saw it. It's safe in the lost and found box."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 46,
+      "title": "Season Review Meeting",
+      "description": "Reminder that our season review meeting is this Wednesday. We'll discuss what worked well and what we can improve on for next season. Your input is important!",
+      "author": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "pubdate": "2026-03-28T17:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "I have some thoughts. I'll be there!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Thanks for the reminder. See you Wednesday."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Looking forward to talking about the season."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Ready to discuss. It's a great way to improve for next season."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "I'll be there to contribute my thoughts."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Thanks, Coach. I'll be there."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 47,
+      "title": "Team Tryouts Announced",
+      "description": "We will be holding tryouts for next season on April 15. More details on the tryout process and registration will be posted soon.",
+      "author": {
+        "name": "Dan",
+        "type": "Coach"
+      },
+      "pubdate": "2026-03-31T12:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Excited to see who joins the team!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Good to have a date. I'll be ready."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "Looking forward to another great season."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "I'm ready to come back even stronger next year."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Awesome! I'll tell my friends about it."
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Great! Thanks for the heads up."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 48,
+      "title": "Looking for a Training Partner",
+      "description": "Anyone interested in getting some extra training in over the break? I'm looking for a partner to work on passing and shooting drills.",
+      "author": {
+        "name": "Chris",
+        "type": "Member"
+      },
+      "pubdate": "2026-04-02T10:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "I'm in! Let's get a session in next week."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Sounds good, Jordan! I'll message you to set a time."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "I might be able to join one day too!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "I'm away for the break, but I'll catch you guys after."
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Great initiative, Chris!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Let's all get some extra work in!"
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 49,
+      "title": "Cup Final Tickets!",
+      "description": "We've made it to the Cup Final! Tickets are available for purchase on the league's website. Let's fill the stadium with our fans!",
+      "author": {
+        "name": "Coach Sam",
+        "type": "Coach"
+      },
+      "pubdate": "2026-04-06T18:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Cup Final! This is incredible! Let's get the win!"
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "I've already bought my tickets for my whole family. Let's go!"
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "This is a dream come true. Let's win it all!"
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Our hard work has paid off. One last push!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "I can't wait to play in the final. Let's do this!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "So excited! I'll tell all my friends and family to come."
+          }
+        ],
+        "enabled": true
+      }
+    },
+    {
+      "id": 50,
+      "title": "Good Luck!",
+      "description": "Good luck to all the players heading to the Spring Break Tournament. Go out there and have fun, and bring home the trophy!",
+      "author": {
+        "name": "Coach Pat",
+        "type": "Coach"
+      },
+      "pubdate": "2026-04-10T09:00Z",
+      "comments": {
+        "list": [
+          {
+            "id": 1,
+            "member": {
+              "name": "Morgan",
+              "type": "Member"
+            },
+            "comment": "Thanks, Coach! We'll do our best."
+          },
+          {
+            "id": 2,
+            "member": {
+              "name": "Chris",
+              "type": "Member"
+            },
+            "comment": "Let's bring home the win! Thank you for your support."
+          },
+          {
+            "id": 3,
+            "member": {
+              "name": "Jordan",
+              "type": "Member"
+            },
+            "comment": "Tournament time! Let's have some fun."
+          },
+          {
+            "id": 4,
+            "member": {
+              "name": "Riley",
+              "type": "Member"
+            },
+            "comment": "This is going to be a great experience. We're ready!"
+          },
+          {
+            "id": 5,
+            "member": {
+              "name": "Casey",
+              "type": "Member"
+            },
+            "comment": "Ready for some intense games. Good luck, team!"
+          },
+          {
+            "id": 6,
+            "member": {
+              "name": "Alex",
+              "type": "Member"
+            },
+            "comment": "Thanks for the good luck wishes! We're gonna need it."
+          }
+        ],
+        "enabled": true
+      }
+    }
+  ]
+}

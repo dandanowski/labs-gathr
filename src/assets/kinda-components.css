@@ -1,0 +1,98 @@
+@import './variables.css';
+@import './typography.css';
+
+/* ----------------------------------------------------------------------------
+    Surface */
+
+:root {
+  --comp-surface--border-color: var(--sem-color-border, darkgrey);
+  --comp-surface--border-width: 1px;
+  --comp-surface--border-style: solid;
+  --comp-surface--border-radius: 8px;
+}
+.surface {
+  /* padding: var(--prim-space-sm); */
+  border-width: var(--comp-surface--border-width, 1px);
+  border-style: var(--comp-surface--border-style, solid);
+  border-color: var(--comp-surface--border-color, grey);
+  border-radius: var(--comp-surface--border-radius, 4px);
+  overflow: hidden;
+}
+
+/* ----------------------------------------------------------------------------
+    Icons */
+
+:root {
+  --comp-icon--fill-color: var(--sem-color-icon, black);
+  --comp-icon--sm-size: 16px;
+  --comp-icon--sm-padding: 1px;
+  --comp-icon--md-size: 20px;
+  --comp-icon--md-padding: 2px;
+  --comp-icon--lg-size: 40px;
+  --comp-icon--lg-padding: 4px;
+  --comp-icon--xl-size: 112px;
+  --comp-icon--xl-padding: 8px;
+}
+
+.icon,
+.icon--md {
+  display: inline-block;
+  width: var(--comp-icon--md-size);
+  height: var(--comp-icon--md-size);
+  padding: var(--comp-icon--md-padding);
+}
+
+.icon--sm {
+  width: var(--comp-icon--sm-size);
+  height: var(--comp-icon--sm-size);
+  padding: var(--comp-icon--sm-padding);
+}
+
+.icon--lg {
+  width: var(--comp-icon--lg-size);
+  height: var(--comp-icon--lg-size);
+  padding: var(--comp-icon--lg-padding);
+  fill-opacity: 0.5;
+}
+
+.icon--xl {
+  display: block;
+  width: var(--comp-icon--xl-size);
+  height: var(--comp-icon--xl-size);
+  padding: var(--comp-icon--xl-padding);
+  fill-opacity: 0.25;
+}
+
+.icon svg path {
+  fill: var(--comp-icon--fill-color);
+}
+
+@media (prefers-color-scheme: dark) {
+  .icon svg path {
+    fill: var(--comp-icon--fill-color);
+  }
+}
+
+/* ----------------------------------------------------------------------------
+    Page Header */
+
+:root {
+  --comp-pageHeader--vertical-padding: var(--prim-space-5xl) var(--prim-space-2xl);
+  --comp-pageHeader--horizontal-padding: var(--prim-space-2xl);
+  --comp-pageHeader--background-color: var(--sem-color-background-soft);
+  --comp-pageHeader--border-color: var(--sem-color-border);
+}
+
+.page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding-block: var(--comp-pageHeader--vertical-padding);
+  padding-inline: var(--comp-pageHeader--horizontal-padding);
+  background-color: var(--comp-pageHeader--background-color);
+  border-block-end: 1px solid var(--comp-pageHeader--border-color);
+}
+
+.page-header h1 {
+  padding: 0;
+}

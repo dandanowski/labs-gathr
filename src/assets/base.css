@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Crete+Round:ital@0;1&family=Permanent+Marker&family=Raleway:ital,wght@0,100..900;1,100..900&family=Truculenta:opsz,wght@12..72,100..900&display=swap');
+
+/* Base */
+:root {
+  /**/
+  --base-font-family-body: Raleway;
+  --base-font-family-headline: 'Crete Round';
+  /* --base-font-family-headline: Lato; */
+  --base-font-size: 16px;
+  --base-font-scale: 1.25;
+  /**/
+  --base-color-brand-primary: green;
+  --base-color-brand-secondary: rebeccapurple;
+  --base-color-brand-tertiary: red;
+  --base-color-brand-accent: magenta;
+  --base-color-neutral: grey;
+  --base-color-feedback-success: green;
+  --base-color-feedback-warning: yellow;
+  --base-color-feedback-error: red;
+  --base-color-feedback-info: blue;
+}

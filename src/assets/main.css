@@ -1,0 +1,124 @@
+@layer reset, defaults, styleguide, site, overrides;
+
+@import './3rdparty/remedy.css' layer(reset.remedy);
+@import './variables.css' layer(styleguide.variables);
+@import './typography.css' layer(styleguide.typography);
+@import './kinda-components.css' layer(styleguide.components);
+@import './style-guide.css' layer(styleguide.example-layout);
+
+/* ----------------------
+  Layout */
+
+@layer site {
+  #app {
+    display: grid;
+    grid-template-areas:
+      'siteHeader'
+      'siteContent'
+      'siteFooter';
+    grid-template-rows: [row1-start] auto [row1-end row2-start] 1fr [row2-end row3-start] auto;
+    min-height: 100vh;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding-inline: 2rem;
+    font-weight: normal;
+  }
+
+  .siteHeader {
+    grid-area: siteHeader;
+  }
+
+  .siteFooter {
+    grid-area: siteFooter;
+  }
+
+  #app main {
+    grid-area: siteContent;
+    padding: 0;
+  }
+}
+
+/* ----------------------
+  Tags */
+
+@layer defaults {
+  html {
+    font-size: var(--base-font-size);
+  }
+
+  body {
+    min-height: 100vh;
+    color: var(--sem-color-text);
+    font-variant-numeric: lining-nums;
+    background: var(--sem-color-background);
+    transition:
+      color 0.5s,
+      background-color 0.5s;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  a,
+  .green {
+    text-decoration: none;
+    color: var(--sem-color-link);
+    transition: 0.4s;
+    padding: 3px;
+  }
+  p,
+  ol,
+  ul {
+    padding-block-end: var(--sem-typography-body-large-font-lineHeight);
+  }
+
+  li:last-of-type,
+  p:last-of-type {
+    padding-block-end: 0;
+  }
+
+  li {
+    padding-block-end: var(--prim-space-xs);
+  }
+
+  h1 {
+    padding: var(--prim-space-2xl) 0;
+  }
+  h2 {
+    padding: var(--prim-space-md) 0;
+  }
+  h3 {
+    padding: var(--prim-space-md) 0;
+  }
+  h4 {
+    padding: var(--prim-space-md) 0 0;
+  }
+  h5 {
+    padding: var(--prim-space-md) 0 0;
+  }
+  h6 {
+    padding: var(--prim-space-md) 0 0;
+  }
+
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+    margin: 0;
+    font-weight: normal;
+  }
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: var(--sem-color-link-hover);
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+  }
+
+  #app {
+  }
+}
