@@ -11,14 +11,12 @@ var thisEventStart = new Date(Date.now())
 if (props.eventDetail) {
   thisEventStart = new Date(props.eventDetail.start)
 }
+
 </script>
 
 <template>
-  <RouterLink
-    v-if="eventDetail"
-    class="eventListItem surface"
-    :to="{ name: 'eventView', params: { id: eventDetail.id } }"
-  >
+  <RouterLink v-if="eventDetail" class="eventListItem surface"
+    :to="{ name: 'eventView', params: { id: eventDetail.id } }">
     <div class="event--datetime">
       <IconCalendar :class="'icon--xl'"></IconCalendar>
       {{ thisEventStart.toDateString() }}
@@ -32,6 +30,21 @@ if (props.eventDetail) {
   </RouterLink>
   <div v-else>Bad Event ID</div>
 </template>
+
+<script lang="ts">
+// For Storybook
+export default {
+  name: 'EventListItem',
+  compProps: {
+    eventDetail: {
+      type: Object,
+      required: true,
+      default: () => ({ id: '', description: '', title: '', start: '', end: '', location: '', comments: '' }),
+      validator: (eventDetail: Object) => ['id', 'description', 'title', 'start', 'end', 'location', 'comments'].every((key) => key in eventDetail)
+    }
+  }
+}
+</script>
 
 <style scoped>
 .eventListItem {

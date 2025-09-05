@@ -3,7 +3,20 @@ import Placeholder from './Placeholder.vue'
 import IconComment from './icons/IconComment.vue'
 
 const props = defineProps({
-  postDetail: Object,
+  postDetail: {
+    id: Number,
+    title: String,
+    description: String,
+    author: {
+      name: String,
+      type: String,
+    },
+    pubdate: Date,
+    comments: {
+      list: Array,
+      enabled: Boolean,
+    },
+  },
 })
 var thisPostPubDate = new Date(Date.now())
 if (props.postDetail) {
@@ -12,21 +25,34 @@ if (props.postDetail) {
 </script>
 
 <template>
-  <RouterLink
-    v-if="postDetail"
-    class="postListItem surface"
-    :to="{ name: 'postView', params: { id: postDetail.id } }"
-  >
+  <RouterLink v-if="postDetail" class="postListItem surface" :to="{ name: 'postView', params: { id: postDetail.id } }">
     <Placeholder class="post--icon">Post icon</Placeholder>
     <span class="post--pubdate --typo--label-large">{{ thisPostPubDate.toDateString() }}</span>
     <span class="post--title --typo--title-small">{{ postDetail.title }}</span>
     <p class="post--description">{{ postDetail.description }}</p>
     <div class="event--meta --typo--label-large">
-      <IconComment :class="'icon--sm'"></IconComment> {{ postDetail.comments.list.length }} Comments
+      <IconComment :class="'icon--sm'"></IconComment>
+      <span v-if="postDetail.comments && postDetail.comments.list">{{ postDetail.comments.list.length }}</span>
+      <span v-else>0</span>
+      Comments
     </div>
   </RouterLink>
   <div v-else>Bad Post ID</div>
 </template>
+
+<script lang="ts">
+export default {
+  name: 'PostListItem',
+  compProps: {
+    postDetail: {
+      type: Object,
+      required: true,
+      default: () => ({ id: '', description: '', title: '', pubdate: '', comments: '' }),
+      validator: (postDetail: Object) => ['id', 'description', 'title', 'pubdate', 'comments'].every((key) => key in postDetail)
+    }
+  }
+}
+</script>
 
 <style scoped>
 .postListItem {
